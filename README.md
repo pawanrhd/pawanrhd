@@ -1,8 +1,8 @@
 ## Hi there 👋
 Front-end Developer
 ## 👨🏻‍💻Here's something about Me:
-<table>
-  <tr>
+<table style="border: none;">
+  <tr style="border: none;">
     <td style="width: 90%; vertical-align: top; padding: 10px; border: none;">
       <ul>
         <li>🔭 I’m currently working on Frontend Projects</li>
@@ -10,11 +10,11 @@ Front-end Developer
         <li>👯 I’m looking to collaborate on Full Stack Technologies</li>
         <li>🤔 I’m looking for help with DSA/System Design</li>
         <li>💬 Ask me about anything</li>
-        <li>📫 How to reach me: yupnothing@gmail.com</li>
+        <li>📫 How to reach me: <a href="mailto:yupnothing@gmail.com">yupnothing@gmail.com</a></li>
         <li>⚡ Fun fact: I like to code a lot and learn a lot even though I fail a lot</li>
       </ul>
     </td>
-    <td style="width: 10%; vertical-align: top; padding: 10px; border: none;">
+    <td style="width: 10%; border: none;">
       <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="480" height="269" alt="Cool GIF"/>
     </td>
   </tr>

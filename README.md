@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yupnothing@gmail.com
 - ⚡ Fun fact: I like to code alot and learn alot even though I fail alot
 
-## Technology Stack
+## 🛠️ Technologies and Tools I use:
 
 ### Frontend Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## ❤️ Let's Get Connected
+## ❤️ Let's Get Connected:
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yupnothing@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fullstackdeveloperkp)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawanrhd)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://yourportfolio.com)
 
-## 📈 My GitHub Profile
+## 📈 My GitHub Profile:
 
 ### 🗂️ Top Languages
 

@@ -3,7 +3,7 @@ Front-end Developer
 ## 👨🏻‍💻Here's something about Me:
 <table>
   <tr>
-    <td style="width: 50%; vertical-align: top; padding: 10px; border: none;">
+    <td style="width: 90%; vertical-align: top; padding: 10px; border: none;">
       <ul>
         <li>🔭 I’m currently working on Frontend Projects</li>
         <li>🌱 I’m currently learning Full Stack Projects</li>
@@ -14,7 +14,7 @@ Front-end Developer
         <li>⚡ Fun fact: I like to code a lot and learn a lot even though I fail a lot</li>
       </ul>
     </td>
-    <td style="width: 50%; vertical-align: top; padding: 10px; border: none;">
+    <td style="width: 10%; vertical-align: top; padding: 10px; border: none;">
       <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="480" height="269" alt="Cool GIF"/>
     </td>
   </tr>

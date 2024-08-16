@@ -13,8 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: yupnothing@gmail.com
 - ⚡ Fun fact: I like to code alot and learn alot even though I fail alot
-
-
-🛠️ Technologies and Tools I use:
-C++ Javascript React NextJs MongoDB Nodejs npm redux Express Tailwidcss Bootstrap Material UI Python Markdown html5 Css3 Jquery git Brave browser Prettier github actions postman Heroku
 -->

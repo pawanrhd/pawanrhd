@@ -6,7 +6,7 @@ Front-end Developer
     <td style="width: 90%; vertical-align: top; padding: 10px; border: none;">
       <ul>
         <li>🔭 I’m currently working on Frontend Projects</li>
-        <li>🌱 I’m currently learning Full Stack Projects</li>
+        <li>🌱 I’m currently learning Full Stack Technologies</li>
         <li>👯 I’m looking to collaborate on Full Stack Technologies</li>
         <li>🤔 I’m looking for help with DSA/System Design</li>
         <li>💬 Ask me about anything</li>

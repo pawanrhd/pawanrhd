@@ -1,5 +1,6 @@
 ## Hi there 👋
 Front-end Developer
+
 ## 👨🏻‍💻Here's something about Me:
 <table style="border: none;">
   <tr style="border: none;">
@@ -32,6 +33,11 @@ Front-end Developer
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%234F4F4F?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-%234F8C2A?style=for-the-badge&logo=node.js&logoColor=white)

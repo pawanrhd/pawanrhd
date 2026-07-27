@@ -1,229 +1,219 @@
 <div align="center">
 
-# 👋 Hey there! I'm Pawan 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38F7D2,100:6C63FF&height=220&section=header&text=Hey%20There!%20I'm%20Pawan%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20|%20Full-Stack%20Enthusiast%20|%20Code%20Artisan&descAlignY=58&descSize=18" width="100%"/>
 
-### 🚀 **Front-End Developer | Full-Stack Enthusiast | Code Artisan**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38F7D2&center=true&vCenter=true&width=700&lines=Building+Beautiful+Web+Experiences+%F0%9F%8E%A8;Full-Stack+Technologies+Learner+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%9A;Problem+Solver+%26+Code+Lover+%F0%9F%94%A5;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38F7D2&center=true&vCenter=true&width=600&lines=Building+Beautiful+Web+Experiences;Full-Stack+Technologies+Learner;Open+Source+Contributor;Problem+Solver+%26+Code+Lover;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<br/>
 
 <img src="https://visitcount.itsvg.in/api?id=pawanrhd&icon=6&color=6" alt="Visit Count" />
-<img src="https://img.shields.io/github/followers/pawanrhd?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers" />
-<img src="https://komarev.com/ghpvc/?username=pawanrhd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
----
+<img src="https://img.shields.io/github/followers/pawanrhd?style=for-the-badge&logo=github&label=Followers&color=38F7D2&labelColor=0d1117" alt="GitHub Followers" />
+<img src="https://komarev.com/ghpvc/?username=pawanrhd&label=Profile+Views&color=6C63FF&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+<img src="https://img.shields.io/badge/dynamic/json?color=FFD93D&label=Repo%20Stars&style=for-the-badge&labelColor=0d1117&query=%24.length&url=https://api.github.com/search/repositories?q=user:pawanrhd" alt="Total Stars"/>
 
 </div>
 
-<!-- WAVE DIVIDER -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
-## 👨🏻‍💻 **About Me**
+## 👨🏻‍💻 About Me
 
-<div align="center">
-  
-  <!-- LIVE STATUS BADGES -->
-  <img src="https://img.shields.io/badge/🔭%20Currently%20Working%20on-Frontend%20Projects-00FFA3?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🌱%20Currently%20Learning-Full%20Stack%20%26%20DSA-FF6B6B?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/💬%20Ask%20Me%20About-Web%20Dev%20%26%20UI%2FUX-FFD93D?style=for-the-badge&labelColor=0d1117" />
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+name: Pawan
+role: Front-End Developer
+based_in: India 🇮🇳
+currently_working_on: Frontend Projects
+currently_learning: Full Stack + DSA
+open_to_collaborate: true
+exploring: System Design
+ask_me_about: [Web Dev, UI/UX, React, Next.js]
+reach_me: yupnothing@gmail.com
+motto: "I code a lot, learn a lot, and fail a lot 😄"
+```
+
+<div align="left">
+  <img src="https://img.shields.io/badge/🔭%20Working%20On-Frontend%20Projects-38F7D2?style=for-the-badge&labelColor=0d1117" />
+  <br/>
+  <img src="https://img.shields.io/badge/🌱%20Learning-Full%20Stack%20%26%20DSA-FF6B6B?style=for-the-badge&labelColor=0d1117" />
+  <br/>
+  <img src="https://img.shields.io/badge/💬%20Ask%20Me-Web%20Dev%20%26%20UI%2FUX-FFD93D?style=for-the-badge&labelColor=0d1117" />
+  <br/>
   <img src="https://img.shields.io/badge/📫%20Reach%20Me-yupnothing%40gmail.com-6C63FF?style=for-the-badge&labelColor=0d1117" />
+  <br/>
+  <img src="https://img.shields.io/badge/🤝%20Status-Open%20to%20Collab-00FFA3?style=for-the-badge&labelColor=0d1117" />
 </div>
 
-<br/>
+</td>
+<td width="45%" valign="top" align="center">
 
-<!-- PROFILE INFO CARDS SIDE BY SIDE -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+## 📊 GitHub Analytics & Stats
+
 <div align="center">
-  
-| | |
-|:---:|:---:|
-| <br/> **👤 Who Am I?** <br/><br/> 🔭 &nbsp;Working on **Frontend Projects** <br/> 🌱 &nbsp;Learning **Full Stack + DSA** <br/> 👯 &nbsp;Open to **Collaborate** <br/> 🤔 &nbsp;Exploring **System Design** <br/> 💬 &nbsp;Ask me about **Web Dev / UI/UX** <br/> 📫 &nbsp;**yupnothing@gmail.com** <br/> ⚡ &nbsp;*"I code a lot, learn a lot, <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and fail a lot 😄"* <br/><br/> | <br/> ![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif) <br/><br/> ![Dev GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) <br/><br/> |
+
+<img src="https://github-readme-stats.vercel.app/api?username=pawanrhd&show_icons=true&count_private=true&hide_border=true&title_color=38F7D2&icon_color=38F7D2&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_radius=12" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanrhd&hide_border=true&background=0d1117&stroke=38F7D2&ring=38F7D2&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38F7D2&sideLabels=FFFFFF&dates=8b949e&border_radius=12" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanrhd&layout=donut&hide_border=true&title_color=38F7D2&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=10" height="220"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawanrhd&theme=react-dark&bg_color=0d1117&color=38F7D2&line=38F7D2&point=FFFFFF&area=true&hide_border=true&radius=12&custom_title=Contribution%20Activity" height="220"/>
 
 </div>
 
-<br/>
+### 🏆 Trophy Cabinet
 
-<!-- QUICK STAT BADGES ROW -->
 <div align="center">
-  <img src="https://img.shields.io/badge/⭐%20Focus-Frontend%20Development-00FFA3?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/📚%20Learning-Full%20Stack%20%26%20DSA-FF6B6B?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/💬%20Ask%20Me-About%20Web%20Dev-FFD93D?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/📫%20Reach%20Me-yupnothing%40gmail.com-6C63FF?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🤝%20Status-Open%20to%20Collab-FF6B6B?style=flat-square&labelColor=0d1117" />
+
+![](https://github-profile-trophy.vercel.app/?username=pawanrhd&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10)
+
 </div>
 
-<!-- WAVE DIVIDER -->
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawanrhd/pawanrhd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawanrhd/pawanrhd/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pawanrhd/pawanrhd/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+> 💡 If the snake graphic above is blank, set up the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action on this repo — it regenerates automatically every day.
+
+</div>
+
+<details>
+<summary><b>🎨 Click for 3D Isometric Contribution View</b></summary>
+<br/>
+<div align="center">
+
+![3D Contribution Graph](https://github.com/pawanrhd/pawanrhd/blob/main/images/3d-contrib-graph.svg)
+
+*Generated using the `yoshi389111/github-profile-3d-contrib` GitHub Action.*
+
+</div>
+</details>
+
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
-## 📊 **GitHub Analytics & Stats**
+## 🛠️ Tech Stack & Tools
 
----
+<details open>
+<summary><b>🌟 Frontend Technologies</b></summary>
+<br/>
+<div align="center">
 
-### 📊 **Live Metrics Dashboard**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-![](https://img.shields.io/badge/🌟%20Stars-0-FFD93D?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/📌%20Repos-0-6C63FF?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/✅%20Commits-0-00FFA3?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/📥%20PRs-0-FF6B6B?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/🐛%20Issues-0-FFA500?style=flat-square&labelColor=0d1117)
-
----
-
-### 📈 **Contribution Stats**
-
-![](https://github-readme-stats.vercel.app/api?username=pawanrhd&show_icons=true&count_private=true&hide_border=true&title_color=00FFA3&icon_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_radius=12)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=pawanrhd&hide_border=true&background=0d1117&stroke=00FFA3&ring=00FFA3&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00FFA3&sideLabels=FFFFFF&dates=8b949e&border_radius=12)
-
-![](https://img.shields.io/badge/🚀%20Total%20Contributions-846%2B-00FFA3?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/📅%20Contributions%20in%20Last%20Year-365%2B-6C63FF?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/🏆%20Longest%20Streak-21%20Days-FF6B6B?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/📊%20Avg%20Contributions/Day-2.3-FFD93D?style=flat-square&labelColor=0d1117)
-
----
-
-### 🏆 **Trophy Cabinet**
-
-![](https://github-profile-trophy.vercel.app/?username=pawanrhd&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&column=8)
-
----
-
-### 📊 **Language Breakdown**
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanrhd&layout=donut&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=10)
-
----
-
-### 📋 **Code Stats**
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=pawanrhd&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=6&layout=compact)
-
----
-
-### 🔥 **Contribution Activity Graph**
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=pawanrhd&theme=react-dark&bg_color=0d1117&color=00FFA3&line=00FFA3&point=FFFFFF&area=true&hide_border=true&radius=12&custom_title=Pawan%27s%20Contribution%20Graph%20📈)
-
----
-
-### 🐍 **Watch My Contributions Get Eaten by a Snake!**
-
-![](https://raw.githubusercontent.com/pawanrhd/pawanrhd/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<!-- 3D CONTRIBUTION ISOMETRIC VIEW -->
-<details>
-  <summary><b>🎨 Click to see 3D Contribution View 🗺️</b></summary>
-
-![](https://github.com/pawanrhd/pawanrhd/blob/main/images/3d-contrib-graph.svg)
-
-Generate this by setting up the `yoshi389111/github-profile-3d-contrib` action
+</div>
 </details>
 
-<!-- WAVE DIVIDER -->
+<details>
+<summary><b>⚙️ Backend & Database Technologies</b></summary>
+<br/>
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>🧰 Tools & Platforms</b></summary>
+<br/>
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>📚 Currently Learning</b></summary>
+<br/>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+</details>
+
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
-## 🛠️ **Tech Stack & Tools**
-
-<details>
-  <summary><b>🌟 Frontend Technologies</b></summary>
-  <br/>
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-</details>
-
-<details>
-  <summary><b>⚙️ Backend & Database Technologies</b></summary>
-  <br/>
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-</details>
-
-<details>
-  <summary><b>🛠️ Tools & Platforms</b></summary>
-  <br/>
-  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-</details>
-
-<details>
-  <summary><b>📚 Currently Learning</b></summary>
-  <br/>
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</details>
-
-<!-- WAVE DIVIDER -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-## ⚡ **Weekly Coding Stats**
+## ⚡ Weekly Coding Stats
 
 <div align="center">
 
 <!--START_SECTION:waka-->
 ```text
 💻 Total Time Coding:     Still counting...
-
 📅 Most Productive Day:   Every day is a learning day!
-
 🔥 Most Used Languages:   JavaScript, HTML, CSS, Python
 ```
 <!--END_SECTION:waka-->
 
+> ⏱️ This section auto-updates via the [`athul/waka-readme`](https://github.com/athul/waka-readme) GitHub Action once connected to WakaTime.
+
 </div>
 
-<!-- WAVE DIVIDER -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
-## 🎯 **Current Focus & Goals**
+## 🎯 Current Focus & Goals
 
 <div align="center">
 
 | 🎯 Goal | 📌 Status | 🚀 Target |
-|:-------:|:---------:|:---------:|
+|:---|:---:|:---:|
 | Full-Stack Mastery | 🌱 Learning | 2026 |
 | DSA Proficiency | 📖 In Progress | 2026 |
 | Open Source Contributions | 🤝 Looking to Collaborate | Ongoing |
 | System Design | 🧠 Learning | 2026 |
 
-</div>
-
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" alt="Random Dev Quote"/>
+
 </div>
 
-<!-- WAVE DIVIDER -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
-## 🌐 **Let's Connect & Collab!**
+## 🌐 Let's Connect & Collab!
 
 <div align="center">
 
@@ -236,31 +226,24 @@ Generate this by setting up the `yoshi389111/github-profile-3d-contrib` action
 
 <br/>
 
-### 💖 **Support My Work**
+### 💖 Support My Work
 
-<a href="https://www.buymeacoffee.com/yourusername">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-<a href="https://ko-fi.com/yourusername">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-</a>
+<a href="https://www.buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+<a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
 
 <br/><br/>
 
-### 📌 **Quick Links**
-
 | 🔗 Link | 📋 Description |
-|:-------:|:--------------:|
+|:---:|:---:|
 | 📧 **Email** | [yupnothing@gmail.com](mailto:yupnothing@gmail.com) |
 | 💼 **LinkedIn** | [@fullstackdeveloperkp](https://www.linkedin.com/in/fullstackdeveloperkp) |
 | 🐙 **GitHub** | [@pawanrhd](https://github.com/pawanrhd) |
 
 </div>
 
-<!-- WAVE DIVIDER -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
-## 🎮 **Fun Zone**
+## 🎮 Fun Zone
 
 <div align="center">
 
@@ -275,64 +258,46 @@ Generate this by setting up the `yoshi389111/github-profile-3d-contrib` action
 ╚══════════════════════════════════════════╝
 ```
 
-<br/>
-
-### 🎵 **Now Playing**
+### 🎵 Now Playing
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=yourid&redirect=true">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourid&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" width="300"/>
 </a>
 
-### 🕹️ **Fun Facts**
+### 🕹️ Fun Facts
 
 | 🌟 Fact | 📝 Detail |
-|:-------:|:---------:|
-| 🎮 **Gaming?** | Love strategy & puzzle games |
-| 📚 **Reading?** | Tech blogs & documentation 📖 |
-| 🎵 **Music?** | Coding with lo-fi beats 🎧 |
-| 🌙 **Productivity?** | Night owl, midnight coder 🦉 |
-| ☕ **Fuel?** | Coffee & endless curiosity |
+|:---:|:---:|
+| 🎮 Gaming? | Love strategy & puzzle games |
+| 📚 Reading? | Tech blogs & documentation 📖 |
+| 🎵 Music? | Coding with lo-fi beats 🎧 |
+| 🌙 Productivity? | Night owl, midnight coder 🦉 |
+| ☕ Fuel? | Coffee & endless curiosity |
 
 <br/>
 
 <details>
-  <summary><b>📜 Click to see my dev journey timeline 🕰️</b></summary>
-  <br/>
-  
-  ```
-  2022 ───────────► 🎯 Started learning HTML, CSS & JavaScript
-  2023 ───────────► 🚀 Built first React projects
-  2024 ───────────► ⚡ Mastered Next.js & Full-Stack basics
-  2025 ───────────► 🌱 Deep diving into Backend & DSA
-  2026 ────────────► 🏆 CURRENT — Building, Learning, Growing!
-  ```
-  
+<summary><b>📜 Click to see my dev journey timeline 🕰️</b></summary>
+<br/>
+
+```
+2022 ───────────► 🎯 Started learning HTML, CSS & JavaScript
+2023 ───────────► 🚀 Built first React projects
+2024 ───────────► ⚡ Mastered Next.js & Full-Stack basics
+2025 ───────────► 🌱 Deep diving into Backend & DSA
+2026 ───────────► 🏆 CURRENT — Building, Learning, Growing!
+```
+
 </details>
 
 </div>
 
-<!-- WAVE DIVIDER -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:38F7D2&height=180&section=footer&text=Thanks%20For%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling"/>
 
 <div align="center">
 
-### 💡 **"The only way to do great work is to love what you do." — Steve Jobs**
+### 💡 *"The only way to do great work is to love what you do."* — Steve Jobs
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawanrhd/pawanrhd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawanrhd/pawanrhd/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pawanrhd/pawanrhd/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
-
-**⭐ Thanks for visiting my profile! Don't forget to check out my repositories!** ⭐
-
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=120&section=footer&text=Thank%20You%20!&fontSize=30&fontColor=fff&animation=twinkling)
+**⭐ Don't forget to star my repositories if you find them useful! ⭐**
 
 </div>
-
-
-

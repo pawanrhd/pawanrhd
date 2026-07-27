@@ -60,11 +60,11 @@
 ### 📊 **Live Metrics Dashboard**
   
 <!-- METRICS SUMMARY ROW -->
-<code>🌟 Stars</code>&nbsp; <img src="https://img.shields.io/github/stars/pawanrhd?style=flat-square&labelColor=0d1117&color=FFD93D" /> &nbsp;&nbsp;
-<code>📌 Repos</code>&nbsp; <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=0d1117&color=6C63FF&label=&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpawanrhd" /> &nbsp;&nbsp;
-<code>✅ Commits</code>&nbsp; <img src="https://img.shields.io/github/commit-activity/y/pawanrhd/pawanrhd?style=flat-square&labelColor=0d1117&color=00FFA3" /> &nbsp;&nbsp;
-<code>📥 PRs</code>&nbsp; <img src="https://img.shields.io/github/issues-pr/pawanrhd?style=flat-square&labelColor=0d1117&color=FF6B6B" /> &nbsp;&nbsp;
-<code>🐛 Issues</code>&nbsp; <img src="https://img.shields.io/github/issues/pawanrhd?style=flat-square&labelColor=0d1117&color=FFA500" />
+<img src="https://img.shields.io/badge/🌟%20Stars-0-FFD93D?style=flat-square&labelColor=0d1117" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📌%20Repos-0-6C63FF?style=flat-square&labelColor=0d1117" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/✅%20Commits-0-00FFA3?style=flat-square&labelColor=0d1117" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📥%20PRs-0-FF6B6B?style=flat-square&labelColor=0d1117" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🐛%20Issues-0-FFA500?style=flat-square&labelColor=0d1117" />
 
 <br/><br/>
 

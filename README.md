@@ -20,84 +20,230 @@
 <tr>
 <td width="55%" valign="top">
 
-<!-- PROFILE CARD HTML -->
-<table width="100%" cellpadding="0" cellspacing="0" style="border: 2px solid #38F7D2; border-radius: 16px; background: #0d1117; font-family: Arial, sans-serif; box-shadow: 0 0 20px rgba(56,247,210,0.15);">
+<!-- SUPER-ENHANCED PROFILE CARD -->
+<table width="100%" cellpadding="0" cellspacing="0" style="border: 2px solid #38F7D2; border-radius: 18px; background: #0d1117; font-family: Arial, sans-serif; box-shadow: 0 0 40px rgba(56,247,210,0.2);">
+  
+  <!-- ✦ GRADIENT HEADER ✦ -->
   <tr>
-    <td style="background: linear-gradient(135deg, #38F7D222, #6C63FF22); padding: 14px 18px; border-bottom: 2px solid #38F7D2; border-radius: 14px 14px 0 0; text-align: center;">
-      <span style="font-size: 20px; font-weight: bold; color: #38F7D2;">👨🏻‍💻 &nbsp;PROFILE CARD</span>
+    <td style="background: linear-gradient(135deg, #38F7D244, #6C63FF44, #FF6B6B33); padding: 18px 22px; border-bottom: 2px solid #38F7D2; border-radius: 16px 16px 0 0; text-align: center;">
+      <span style="font-size: 23px; font-weight: bold; color: #38F7D2; letter-spacing: 1.5px;">👨🏻‍💻 &nbsp;✦  P R O F I L E  C A R D  ✦</span>
     </td>
   </tr>
+  
+  <!-- ✦ HERO SECTION ✦ -->
   <tr>
-    <td style="padding: 12px 18px;">
-      <table width="100%" cellpadding="6" cellspacing="0">
-        <tr><td style="font-size: 15px; color: #c9d1d9; border-bottom: 1px solid #1e2a3a;">
-          <span style="font-size: 20px;">🧑</span>&nbsp;&nbsp;<span style="color: #8b949e;">Name</span>
-          <span style="float: right; color: #38F7D2; font-weight: 600;">Pawan</span>
-        </td></tr>
-        <tr><td style="font-size: 15px; color: #c9d1d9; border-bottom: 1px solid #1e2a3a;">
-          <span style="font-size: 20px;">💼</span>&nbsp;&nbsp;<span style="color: #8b949e;">Role</span>
-          <span style="float: right; color: #38F7D2; font-weight: 600;">Front-End Developer</span>
-        </td></tr>
-        <tr><td style="font-size: 15px; color: #c9d1d9; border-bottom: 1px solid #1e2a3a;">
-          <span style="font-size: 20px;">📍</span>&nbsp;&nbsp;<span style="color: #8b949e;">Based In</span>
-          <span style="float: right; color: #38F7D2; font-weight: 600;">India 🇮🇳</span>
-        </td></tr>
+    <td style="padding: 22px 22px 14px;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <!-- Avatar Column -->
+          <td width="28%" valign="top" align="center" style="padding-right: 18px;">
+            <div style="border: 3px solid #38F7D2; border-radius: 50%; width: 110px; height: 110px; overflow: hidden; box-shadow: 0 0 40px rgba(56,247,210,0.35);">
+              <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="110" height="110" style="border-radius: 50%;"/>
+            </div>
+            <div style="margin-top: 10px; background: #00FFA320; border: 1px solid #00FFA355; border-radius: 20px; padding: 3px 14px; display: inline-block;">
+              <span style="color: #00FFA3; font-size: 11px; font-weight: bold;">● OPEN TO WORK</span>
+            </div>
+            <div style="margin-top: 8px; color: #8b949e; font-size: 12px;">📍 India 🇮🇳</div>
+          </td>
+          <!-- Info Column -->
+          <td width="72%" valign="top">
+            <!-- Gradient Name -->
+            <div style="font-size: 30px; font-weight: bold; line-height: 1.2;">
+              <span style="color: #38F7D2;">P</span><span style="color: #45EEB8;">a</span><span style="color: #52E59E;">w</span><span style="color: #5FDC84;">a</span><span style="color: #6CD36A;">n</span>
+              <span style="color: #8b949e; font-weight: 300; font-size: 22px;">&nbsp;•&nbsp;</span>
+              <span style="color: #6C63FF; font-size: 22px;">Front-End Dev</span>
+            </div>
+            <!-- Tagline -->
+            <div style="color: #8b949e; font-size: 14px; margin-top: 6px;">
+              ✦ Building digital experiences &nbsp;|&nbsp; 🌱 Always growing
+            </div>
+            <!-- Role Badges -->
+            <div style="margin-top: 12px;">
+              <span style="background: #38F7D220; color: #38F7D2; padding: 4px 16px; border-radius: 14px; font-size: 12px; border: 1px solid #38F7D244; display: inline-block; margin: 2px;">💻 Developer</span>
+              <span style="background: #6C63FF20; color: #6C63FF; padding: 4px 16px; border-radius: 14px; font-size: 12px; border: 1px solid #6C63FF44; display: inline-block; margin: 2px;">🎨 UI/UX Designer</span>
+              <span style="background: #FFD93D20; color: #FFD93D; padding: 4px 16px; border-radius: 14px; font-size: 12px; border: 1px solid #FFD93D44; display: inline-block; margin: 2px;">🚀 Lifelong Learner</span>
+            </div>
+          </td>
+        </tr>
       </table>
     </td>
   </tr>
+  
+  <!-- ✦ DIVIDER ✦ -->
   <tr>
-    <td style="padding: 0 18px 8px;">
-      <div style="background: #161b22; border-radius: 10px; padding: 12px 14px; border: 1px solid #1e2a3a;">
-        <span style="color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">⚡ Current Status</span>
-        <table width="100%" cellpadding="5" cellspacing="0" style="margin-top: 6px;">
-          <tr><td style="font-size: 14px; color: #c9d1d9;"><span style="font-size: 16px;">🚀</span> Working</td><td style="text-align: right; color: #38F7D2; font-weight: 600;">Frontend Projects</td></tr>
-          <tr><td style="font-size: 14px; color: #c9d1d9;"><span style="font-size: 16px;">📚</span> Learning</td><td style="text-align: right; color: #FF6B6B; font-weight: 600;">Full Stack + DSA</td></tr>
-          <tr><td style="font-size: 14px; color: #c9d1d9;"><span style="font-size: 16px;">🔍</span> Exploring</td><td style="text-align: right; color: #FFD93D; font-weight: 600;">System Design</td></tr>
-          <tr><td style="font-size: 14px; color: #c9d1d9;"><span style="font-size: 16px;">🤝</span> Collab</td><td style="text-align: right; color: #00FFA3; font-weight: 600;">Open for all! 🎉</td></tr>
-        </table>
+    <td style="padding: 0 22px;">
+      <div style="border-bottom: 1px solid #1e2a3a; width: 100%;"></div>
+    </td>
+  </tr>
+  
+  <!-- ✦ CURRENT MISSION ✦ -->
+  <tr>
+    <td style="padding: 14px 22px 10px;">
+      <div style="color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 2px; font-weight: bold; margin-bottom: 10px;">🚀 CURRENT MISSION</div>
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="50%" style="padding: 3px;">
+            <div style="background: linear-gradient(135deg, #161b22, #1a1f2e); border-radius: 10px; padding: 12px 14px; border: 1px solid #1e2a3a;">
+              <span style="font-size: 13px; color: #c9d1d9;"><span style="font-size: 18px;">🔭</span> &nbsp;<span style="color: #8b949e;">Working On</span></span><br/>
+              <span style="color: #38F7D2; font-size: 14px; font-weight: 600; margin-left: 26px;">Frontend Projects</span>
+            </div>
+          </td>
+          <td width="50%" style="padding: 3px;">
+            <div style="background: linear-gradient(135deg, #161b22, #1a1f2e); border-radius: 10px; padding: 12px 14px; border: 1px solid #1e2a3a;">
+              <span style="font-size: 13px; color: #c9d1d9;"><span style="font-size: 18px;">📚</span> &nbsp;<span style="color: #8b949e;">Learning</span></span><br/>
+              <span style="color: #FF6B6B; font-size: 14px; font-weight: 600; margin-left: 26px;">Full Stack + DSA</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" style="padding: 3px;">
+            <div style="background: linear-gradient(135deg, #161b22, #1a1f2e); border-radius: 10px; padding: 12px 14px; border: 1px solid #1e2a3a;">
+              <span style="font-size: 13px; color: #c9d1d9;"><span style="font-size: 18px;">🔍</span> &nbsp;<span style="color: #8b949e;">Exploring</span></span><br/>
+              <span style="color: #FFD93D; font-size: 14px; font-weight: 600; margin-left: 26px;">System Design</span>
+            </div>
+          </td>
+          <td width="50%" style="padding: 3px;">
+            <div style="background: linear-gradient(135deg, #161b22, #1a1f2e); border-radius: 10px; padding: 12px 14px; border: 1px solid #1e2a3a;">
+              <span style="font-size: 13px; color: #c9d1d9;"><span style="font-size: 18px;">🤝</span> &nbsp;<span style="color: #8b949e;">Collab</span></span><br/>
+              <span style="color: #00FFA3; font-size: 14px; font-weight: 600; margin-left: 26px;">Open for all! 🎉</span>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- ✦ TECH ARSENAL ✦ -->
+  <tr>
+    <td style="padding: 6px 22px 14px;">
+      <div style="color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 2px; font-weight: bold; margin-bottom: 10px;">🛠️ TECH ARSENAL</div>
+      <div style="line-height: 2.6; text-align: center;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e2a3a" height="26" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e2a3a" height="26" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1e2a3a" height="26" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1e2a3a" height="26" alt="React"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e2a3a" height="26" alt="Git"/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1e2a3a" height="26" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e2a3a" height="26" alt="Python"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1e2a3a" height="26" alt="Tailwind"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1e2a3a" height="26" alt="Node.js"/>
       </div>
     </td>
   </tr>
+
+  <!-- ✦ SKILL PROFICIENCY ✦ -->
   <tr>
-    <td style="padding: 0 18px 8px;">
-      <div style="background: #161b22; border-radius: 10px; padding: 12px 14px; border: 1px solid #1e2a3a;">
-        <span style="color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">💬 Connect</span>
-        <table width="100%" cellpadding="5" cellspacing="0" style="margin-top: 6px;">
-          <tr><td style="font-size: 14px; color: #c9d1d9;"><span style="font-size: 16px;">💬</span> Ask Me</td><td style="text-align: right; color: #FFD93D; font-weight: 600;">Web Dev / UI/UX</td></tr>
-          <tr><td style="font-size: 14px; color: #c9d1d9;"><span style="font-size: 16px;">📫</span> Reach Me</td><td style="text-align: right; color: #6C63FF; font-weight: 600;">yupnothing@gmail.com</td></tr>
-        </table>
+    <td style="padding: 0 22px 14px;">
+      <div style="color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 2px; font-weight: bold; margin-bottom: 8px;">📈 SKILL PROFICIENCY</div>
+      <table width="100%" cellpadding="3" cellspacing="0">
+        <tr>
+          <td width="35%" style="color: #c9d1d9; font-size: 12px; padding: 4px 8px;">HTML &amp; CSS</td>
+          <td width="65%" style="padding: 4px 0;">
+            <div style="background: #1e2a3a; border-radius: 12px; height: 10px; width: 100%; overflow: hidden;">
+              <div style="background: linear-gradient(90deg, #38F7D2, #00FFA3); width: 92%; height: 10px; border-radius: 12px;"></div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="35%" style="color: #c9d1d9; font-size: 12px; padding: 4px 8px;">JavaScript</td>
+          <td width="65%" style="padding: 4px 0;">
+            <div style="background: #1e2a3a; border-radius: 12px; height: 10px; width: 100%; overflow: hidden;">
+              <div style="background: linear-gradient(90deg, #FFD93D, #FFB347); width: 80%; height: 10px; border-radius: 12px;"></div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="35%" style="color: #c9d1d9; font-size: 12px; padding: 4px 8px;">React</td>
+          <td width="65%" style="padding: 4px 0;">
+            <div style="background: #1e2a3a; border-radius: 12px; height: 10px; width: 100%; overflow: hidden;">
+              <div style="background: linear-gradient(90deg, #6C63FF, #E040FB); width: 72%; height: 10px; border-radius: 12px;"></div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="35%" style="color: #c9d1d9; font-size: 12px; padding: 4px 8px;">Python &amp; DSA</td>
+          <td width="65%" style="padding: 4px 0;">
+            <div style="background: #1e2a3a; border-radius: 12px; height: 10px; width: 100%; overflow: hidden;">
+              <div style="background: linear-gradient(90deg, #FF6B6B, #FF8E53); width: 60%; height: 10px; border-radius: 12px;"></div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="35%" style="color: #c9d1d9; font-size: 12px; padding: 4px 8px;">Git &amp; Tools</td>
+          <td width="65%" style="padding: 4px 0;">
+            <div style="background: #1e2a3a; border-radius: 12px; height: 10px; width: 100%; overflow: hidden;">
+              <div style="background: linear-gradient(90deg, #38F7D2, #6C63FF); width: 85%; height: 10px; border-radius: 12px;"></div>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- ✦ LET'S CONNECT ✦ -->
+  <tr>
+    <td style="padding: 0 22px 10px;">
+      <div style="color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 2px; font-weight: bold; margin-bottom: 10px;">💬 LET'S CONNECT</div>
+      <div style="text-align: center; line-height: 2.4;">
+        <img src="https://img.shields.io/badge/yupnothing@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e2a3a" height="26" alt="Email"/>
+        <img src="https://img.shields.io/badge/pawanrhd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e2a3a" height="26" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/@pawanrhd-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1e2a3a" height="26" alt="Twitter"/>
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1e2a3a" height="26" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Ask_Me_About-Web_Dev_%26_UI%2FUX-FFD93D?style=for-the-badge&labelColor=1e2a3a" height="26" alt="Ask Me"/>
       </div>
     </td>
   </tr>
+
+  <!-- ✦ DEV MOTTO ✦ -->
   <tr>
-    <td style="padding: 0 18px 14px;">
-      <div style="background: linear-gradient(135deg, #38F7D210, #6C63FF10); border-radius: 10px; padding: 12px 14px; border: 1px dashed #38F7D244;">
-        <span style="color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">⚡ Motto</span>
-        <div style="margin-top: 4px; font-size: 14px; color: #38F7D2; font-style: italic; text-align: center;">
-          "I code a lot, learn a lot,<br/>and fail a lot 😄"
+    <td style="padding: 0 22px 14px;">
+      <div style="background: linear-gradient(135deg, #38F7D210, #6C63FF10, #FF6B6B10); border-radius: 12px; padding: 14px 18px; border: 1.5px dashed #38F7D255;">
+        <div style="color: #8b949e; font-size: 11px; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 6px; text-align: center;">💭 DEV MOTTO</div>
+        <div style="font-size: 16px; color: #38F7D2; font-style: italic; text-align: center; line-height: 1.6;">
+          ✨ "I code a lot, learn a lot,<br/>and fail a lot — that's how I grow!" ✨
         </div>
       </div>
     </td>
   </tr>
+
+  <!-- ✦ FOOTER BADGES ✦ -->
   <tr>
-    <td style="background: linear-gradient(135deg, #38F7D222, #6C63FF22); padding: 12px 14px; border-top: 1px solid #38F7D244; border-radius: 0 0 14px 14px; text-align: center;">
-      <img src="https://img.shields.io/badge/🔭%20Working%20On-Frontend%20Projects-38F7D2?style=flat-square&labelColor=0d1117" />
+    <td style="background: linear-gradient(135deg, #38F7D222, #6C63FF22, #FF6B6B11); padding: 14px 16px; border-top: 1px solid #38F7D244; border-radius: 0 0 16px 16px; text-align: center;">
+      <img src="https://img.shields.io/badge/🔭_Working-Frontend_Projects-38F7D2?style=flat-square&labelColor=0d1117" alt="Working On"/>
       &nbsp;
-      <img src="https://img.shields.io/badge/🌱%20Learning-Full%20Stack%20%26%20DSA-FF6B6B?style=flat-square&labelColor=0d1117" />
-      <br/>
-      <img src="https://img.shields.io/badge/💬%20Ask%20Me-Web%20Dev%20%26%20UI%2FUX-FFD93D?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/🌱_Learning-Full_Stack_%26_DSA-FF6B6B?style=flat-square&labelColor=0d1117" alt="Learning"/>
       &nbsp;
-      <img src="https://img.shields.io/badge/📫%20Reach%20Me-yupnothing%40gmail.com-6C63FF?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/🤝_Status-Open_for_Collab-00FFA3?style=flat-square&labelColor=0d1117" alt="Collab"/>
       <br/>
-      <img src="https://img.shields.io/badge/🤝%20Status-Open%20to%20Collab-00FFA3?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/💬_Ask_Me-Web_Dev_%26_UI%2FUX-FFD93D?style=flat-square&labelColor=0d1117" alt="Ask Me"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/📫_Reach_Me-yupnothing%40gmail.com-6C63FF?style=flat-square&labelColor=0d1117" alt="Email"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/⭐_Profile-pawanrhd-38F7D2?style=flat-square&labelColor=0d1117" alt="Profile"/>
+      <br/>
+      <span style="color: #8b949e; font-size: 10px; display: inline-block; margin-top: 6px;">⚡ Open source &nbsp;|&nbsp; 💻 Clean code &nbsp;|&nbsp; 🚀 Always building</span>
     </td>
   </tr>
 </table>
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+<!-- Right Side: Coding GIF + Mini Quote -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 12px; border: 2px solid #1e2a3a;"/>
+
+<div style="margin-top: 14px; background: #161b22; border-radius: 12px; padding: 14px 16px; border: 1px solid #1e2a3a; text-align: center;">
+  <span style="color: #8b949e; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">⚡ FUN FACT</span>
+  <div style="color: #c9d1d9; font-size: 13px; margin-top: 6px; line-height: 1.5;">
+    "The best code is the one<br/>that works — not the one<br/>you keep refactoring! 😅"
+  </div>
+</div>
+
+<div style="margin-top: 10px; text-align: center;">
+  <img src="https://img.shields.io/badge/⏰_Coding_Since-2020-38F7D2?style=flat-square&labelColor=0d1117" alt="Coding Since"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔥_Daily_Commit-Streak-FF6B6B?style=flat-square&labelColor=0d1117" alt="Daily Commit"/>
+</div>
 
 </td>
 </tr>

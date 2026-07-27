@@ -55,83 +55,69 @@
 
 ## 📊 **GitHub Analytics & Stats**
 
-<div align="center">
+---
 
 ### 📊 **Live Metrics Dashboard**
-  
-<!-- METRICS SUMMARY ROW -->
-<img src="https://img.shields.io/badge/🌟%20Stars-0-FFD93D?style=flat-square&labelColor=0d1117" /> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📌%20Repos-0-6C63FF?style=flat-square&labelColor=0d1117" /> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/✅%20Commits-0-00FFA3?style=flat-square&labelColor=0d1117" /> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📥%20PRs-0-FF6B6B?style=flat-square&labelColor=0d1117" /> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🐛%20Issues-0-FFA500?style=flat-square&labelColor=0d1117" />
 
-<br/><br/>
+![](https://img.shields.io/badge/🌟%20Stars-0-FFD93D?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/📌%20Repos-0-6C63FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/✅%20Commits-0-00FFA3?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/📥%20PRs-0-FF6B6B?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/🐛%20Issues-0-FFA500?style=flat-square&labelColor=0d1117)
+
+---
 
 ### 📈 **Contribution Stats**
 
-<!-- CARDS WITH GLOW BORDER -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pawanrhd&show_icons=true&count_private=true&hide_border=true&title_color=00FFA3&icon_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_radius=12" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanrhd&hide_border=true&background=0d1117&stroke=00FFA3&ring=00FFA3&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00FFA3&sideLabels=FFFFFF&dates=8b949e&border_radius=12" width="100%" />
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=pawanrhd&show_icons=true&count_private=true&hide_border=true&title_color=00FFA3&icon_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_radius=12)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=pawanrhd&hide_border=true&background=0d1117&stroke=00FFA3&ring=00FFA3&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00FFA3&sideLabels=FFFFFF&dates=8b949e&border_radius=12)
 
-<br/>
+![](https://img.shields.io/badge/🚀%20Total%20Contributions-846%2B-00FFA3?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/📅%20Contributions%20in%20Last%20Year-365%2B-6C63FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/🏆%20Longest%20Streak-21%20Days-FF6B6B?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/📊%20Avg%20Contributions/Day-2.3-FFD93D?style=flat-square&labelColor=0d1117)
 
-<!-- STATS BADGES ROW -->
-<img src="https://img.shields.io/badge/🚀%20Total%20Contributions-846%2B-00FFA3?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/📅%20Contributions%20in%20Last%20Year-365%2B-6C63FF?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🏆%20Longest%20Streak-21%20Days-FF6B6B?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/📊%20Avg%20Contributions/Day-2.3-FFD93D?style=flat-square&labelColor=0d1117" />
-
-<br/><br/>
+---
 
 ### 🏆 **Trophy Cabinet**
 
-<img src="https://github-profile-trophy.vercel.app/?username=pawanrhd&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&column=8" alt="Trophies" width="100%" />
+![](https://github-profile-trophy.vercel.app/?username=pawanrhd&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&column=8)
 
-<br/><br/>
+---
 
 ### 📊 **Language Breakdown**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanrhd&layout=donut&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=10" alt="Top Languages" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanrhd&layout=donut&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=10)
 
-<br/><br/>
+---
 
 ### 📋 **Code Stats**
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pawanrhd&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=6&layout=compact" alt="WakaTime Stats" />
+![](https://github-readme-stats.vercel.app/api/wakatime?username=pawanrhd&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=6&layout=compact)
 
-<br/>
+---
 
 ### 🔥 **Contribution Activity Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawanrhd&theme=react-dark&bg_color=0d1117&color=00FFA3&line=00FFA3&point=FFFFFF&area=true&hide_border=true&radius=12&custom_title=Pawan%27s%20Contribution%20Graph%20📈" width="100%" />
+![](https://github-readme-activity-graph.vercel.app/graph?username=pawanrhd&theme=react-dark&bg_color=0d1117&color=00FFA3&line=00FFA3&point=FFFFFF&area=true&hide_border=true&radius=12&custom_title=Pawan%27s%20Contribution%20Graph%20📈)
 
-<br/><br/>
+---
 
 ### 🐍 **Watch My Contributions Get Eaten by a Snake!**
 
-<img src="https://raw.githubusercontent.com/pawanrhd/pawanrhd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+![](https://raw.githubusercontent.com/pawanrhd/pawanrhd/output/github-contribution-grid-snake-dark.svg)
 
-<br/>
+---
 
 <!-- 3D CONTRIBUTION ISOMETRIC VIEW -->
 <details>
   <summary><b>🎨 Click to see 3D Contribution View 🗺️</b></summary>
-  <br/>
-  <img src="https://github.com/pawanrhd/pawanrhd/blob/main/images/3d-contrib-graph.svg" width="100%" alt="3D Contribution Graph"/>
-  <br/>
-  <sub>Generate this by setting up the <code>yoshi389111/github-profile-3d-contrib</code> action</sub>
-</details>
 
-</div>
+![](https://github.com/pawanrhd/pawanrhd/blob/main/images/3d-contrib-graph.svg)
+
+Generate this by setting up the `yoshi389111/github-profile-3d-contrib` action
+</details>
 
 <!-- WAVE DIVIDER -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">

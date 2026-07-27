@@ -171,74 +171,147 @@
 
 <div align="center">
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">🎯&nbsp;Goal</th>
-      <th align="center">📊&nbsp;Progress</th>
-      <th align="center">📌&nbsp;Status</th>
-      <th align="center">🔥&nbsp;Priority</th>
-      <th align="center">🚀&nbsp;Target</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>💻&nbsp;<b>Full-Stack Mastery</b></td>
-      <td align="center">
-        <div style="display: inline-flex; align-items: center; gap: 8px;">
-          <div style="width: 100px; height: 18px; background: #1e2a3a; border-radius: 10px; overflow: hidden; border: 1px solid #2a3a4a;">
-            <div style="width: 55%; height: 100%; background: linear-gradient(90deg, #38F7D2, #2dbaa0); border-radius: 10px;"></div>
-          </div>
-          <span style="color: #c9d1d9; font-size: 13px; font-weight: 700; font-family: monospace;">55%</span>
-        </div>
-      </td>
-      <td><img src="https://img.shields.io/badge/🌱_Learning-38F7D2?style=flat-square&labelColor=0d1117" alt="Learning"/></td>
-      <td><img src="https://img.shields.io/badge/High-FF6B6B?style=flat-square&labelColor=0d1117" alt="High"/></td>
-      <td><img src="https://img.shields.io/badge/2026-6C63FF?style=flat-square&labelColor=0d1117" alt="2026"/></td>
-    </tr>
-    <tr>
-      <td>🧮&nbsp;<b>DSA Proficiency</b></td>
-      <td align="center">
-        <div style="display: inline-flex; align-items: center; gap: 8px;">
-          <div style="width: 100px; height: 18px; background: #1e2a3a; border-radius: 10px; overflow: hidden; border: 1px solid #2a3a4a;">
-            <div style="width: 40%; height: 100%; background: linear-gradient(90deg, #FFD93D, #e6b800); border-radius: 10px;"></div>
-          </div>
-          <span style="color: #c9d1d9; font-size: 13px; font-weight: 700; font-family: monospace;">40%</span>
-        </div>
-      </td>
-      <td><img src="https://img.shields.io/badge/📖_In_Progress-FFD93D?style=flat-square&labelColor=0d1117" alt="In Progress"/></td>
-      <td><img src="https://img.shields.io/badge/High-FF6B6B?style=flat-square&labelColor=0d1117" alt="High"/></td>
-      <td><img src="https://img.shields.io/badge/2026-6C63FF?style=flat-square&labelColor=0d1117" alt="2026"/></td>
-    </tr>
-    <tr>
-      <td>🌍&nbsp;<b>Open Source Contributions</b></td>
-      <td align="center">
-        <div style="display: inline-flex; align-items: center; gap: 8px;">
-          <div style="width: 100px; height: 18px; background: #1e2a3a; border-radius: 10px; overflow: hidden; border: 1px solid #2a3a4a;">
-            <div style="width: 30%; height: 100%; background: linear-gradient(90deg, #FF6B6B, #e04040); border-radius: 10px;"></div>
-          </div>
-          <span style="color: #c9d1d9; font-size: 13px; font-weight: 700; font-family: monospace;">30%</span>
-        </div>
-      </td>
-      <td><img src="https://img.shields.io/badge/🤝_Open_to_Collab-FF6B6B?style=flat-square&labelColor=0d1117" alt="Open to Collaborate"/></td>
-      <td><img src="https://img.shields.io/badge/Medium-FFD93D?style=flat-square&labelColor=0d1117" alt="Medium"/></td>
-      <td><img src="https://img.shields.io/badge/Ongoing-00FFA3?style=flat-square&labelColor=0d1117" alt="Ongoing"/></td>
-    </tr>
-    <tr>
-      <td>🏗️&nbsp;<b>System Design</b></td>
-      <td align="center">
-        <div style="display: inline-flex; align-items: center; gap: 8px;">
-          <div style="width: 100px; height: 18px; background: #1e2a3a; border-radius: 10px; overflow: hidden; border: 1px solid #2a3a4a;">
-            <div style="width: 25%; height: 100%; background: linear-gradient(90deg, #00FFA3, #00cc82); border-radius: 10px;"></div>
-          </div>
-          <span style="color: #c9d1d9; font-size: 13px; font-weight: 700; font-family: monospace;">25%</span>
-        </div>
-      </td>
-      <td><img src="https://img.shields.io/badge/🧠_Learning-00FFA3?style=flat-square&labelColor=0d1117" alt="Learning"/></td>
-      <td><img src="https://img.shields.io/badge/Medium-FFD93D?style=flat-square&labelColor=0d1117" alt="Medium"/></td>
-      <td><img src="https://img.shields.io/badge/2026-6C63FF?style=flat-square&labelColor=0d1117" alt="2026"/></td>
-    </tr>
-  </tbody>
+<!-- Goals Card Container -->
+<table width="95%" cellpadding="0" cellspacing="0" style="border: 2px solid #1e2a3a; border-radius: 16px; background: #0d1117; box-shadow: 0 0 40px rgba(56,247,210,0.08); overflow: hidden;">
+  
+  <!-- Card Header -->
+  <tr>
+    <td style="background: linear-gradient(135deg, #161b22, #0d1117); padding: 16px 20px; border-bottom: 1px solid #1e2a3a;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="center">
+            <span style="color: #38F7D2; font-size: 15px; font-weight: 600;">🎯 Goals Dashboard</span>
+            <span style="color: #8b949e; font-size: 12px; margin-left: 10px;">— tracking my dev milestones</span>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  
+  <!-- Table -->
+  <tr>
+    <td style="padding: 0;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        
+        <!-- Table Header -->
+        <tr>
+          <td style="padding: 14px 16px; background: #161b22; border-bottom: 2px solid #1e2a3a;">
+            <table width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="left" style="width: 22%;"><span style="color: #38F7D2; font-size: 13px; font-weight: 600;">🎯 Goal</span></td>
+                <td align="center" style="width: 26%;"><span style="color: #38F7D2; font-size: 13px; font-weight: 600;">📊 Progress</span></td>
+                <td align="center" style="width: 18%;"><span style="color: #38F7D2; font-size: 13px; font-weight: 600;">📌 Status</span></td>
+                <td align="center" style="width: 16%;"><span style="color: #38F7D2; font-size: 13px; font-weight: 600;">🔥 Priority</span></td>
+                <td align="center" style="width: 18%;"><span style="color: #38F7D2; font-size: 13px; font-weight: 600;">🚀 Target</span></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Row 1: Full-Stack Mastery -->
+        <tr>
+          <td style="padding: 12px 16px; border-bottom: 1px solid #1e2a3a; background: #0d1117;">
+            <table width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="left" style="width: 22%;"><span style="color: #c9d1d9; font-size: 14px;">💻 <b>Full-Stack Mastery</b></span></td>
+                <td align="center" style="width: 26%;">
+                  <div style="display: inline-flex; align-items: center; gap: 8px;">
+                    <div style="width: 110px; height: 20px; background: #1e2a3a; border-radius: 12px; overflow: hidden; border: 1px solid #2a3a4a; position: relative;">
+                      <div style="width: 55%; height: 100%; background: linear-gradient(90deg, #38F7D2, #2dbaa0); border-radius: 12px;"></div>
+                    </div>
+                    <span style="color: #38F7D2; font-size: 13px; font-weight: 700; font-family: monospace;">55%</span>
+                  </div>
+                </td>
+                <td align="center" style="width: 18%;"><img src="https://img.shields.io/badge/🌱_Learning-38F7D2?style=flat-square&labelColor=0d1117" alt="Learning"/></td>
+                <td align="center" style="width: 16%;"><img src="https://img.shields.io/badge/High-FF6B6B?style=flat-square&labelColor=0d1117" alt="High"/></td>
+                <td align="center" style="width: 18%;"><img src="https://img.shields.io/badge/2026-6C63FF?style=flat-square&labelColor=0d1117" alt="2026"/></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Row 2: DSA Proficiency -->
+        <tr>
+          <td style="padding: 12px 16px; border-bottom: 1px solid #1e2a3a; background: #0d1117;">
+            <table width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="left" style="width: 22%;"><span style="color: #c9d1d9; font-size: 14px;">🧮 <b>DSA Proficiency</b></span></td>
+                <td align="center" style="width: 26%;">
+                  <div style="display: inline-flex; align-items: center; gap: 8px;">
+                    <div style="width: 110px; height: 20px; background: #1e2a3a; border-radius: 12px; overflow: hidden; border: 1px solid #2a3a4a;">
+                      <div style="width: 40%; height: 100%; background: linear-gradient(90deg, #FFD93D, #e6b800); border-radius: 12px;"></div>
+                    </div>
+                    <span style="color: #FFD93D; font-size: 13px; font-weight: 700; font-family: monospace;">40%</span>
+                  </div>
+                </td>
+                <td align="center" style="width: 18%;"><img src="https://img.shields.io/badge/📖_In_Progress-FFD93D?style=flat-square&labelColor=0d1117" alt="In Progress"/></td>
+                <td align="center" style="width: 16%;"><img src="https://img.shields.io/badge/High-FF6B6B?style=flat-square&labelColor=0d1117" alt="High"/></td>
+                <td align="center" style="width: 18%;"><img src="https://img.shields.io/badge/2026-6C63FF?style=flat-square&labelColor=0d1117" alt="2026"/></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Row 3: Open Source Contributions -->
+        <tr>
+          <td style="padding: 12px 16px; border-bottom: 1px solid #1e2a3a; background: #0d1117;">
+            <table width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="left" style="width: 22%;"><span style="color: #c9d1d9; font-size: 14px;">🌍 <b>Open Source</b></span></td>
+                <td align="center" style="width: 26%;">
+                  <div style="display: inline-flex; align-items: center; gap: 8px;">
+                    <div style="width: 110px; height: 20px; background: #1e2a3a; border-radius: 12px; overflow: hidden; border: 1px solid #2a3a4a;">
+                      <div style="width: 30%; height: 100%; background: linear-gradient(90deg, #FF6B6B, #e04040); border-radius: 12px;"></div>
+                    </div>
+                    <span style="color: #FF6B6B; font-size: 13px; font-weight: 700; font-family: monospace;">30%</span>
+                  </div>
+                </td>
+                <td align="center" style="width: 18%;"><img src="https://img.shields.io/badge/🤝_Open_to_Collab-FF6B6B?style=flat-square&labelColor=0d1117" alt="Open to Collaborate"/></td>
+                <td align="center" style="width: 16%;"><img src="https://img.shields.io/badge/Medium-FFD93D?style=flat-square&labelColor=0d1117" alt="Medium"/></td>
+                <td align="center" style="width: 18%;"><img src="https://img.shields.io/badge/Ongoing-00FFA3?style=flat-square&labelColor=0d1117" alt="Ongoing"/></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Row 4: System Design -->
+        <tr>
+          <td style="padding: 12px 16px; background: #0d1117;">
+            <table width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="left" style="width: 22%;"><span style="color: #c9d1d9; font-size: 14px;">🏗️ <b>System Design</b></span></td>
+                <td align="center" style="width: 26%;">
+                  <div style="display: inline-flex; align-items: center; gap: 8px;">
+                    <div style="width: 110px; height: 20px; background: #1e2a3a; border-radius: 12px; overflow: hidden; border: 1px solid #2a3a4a;">
+                      <div style="width: 25%; height: 100%; background: linear-gradient(90deg, #00FFA3, #00cc82); border-radius: 12px;"></div>
+                    </div>
+                    <span style="color: #00FFA3; font-size: 13px; font-weight: 700; font-family: monospace;">25%</span>
+                  </div>
+                </td>
+                <td align="center" style="width: 18%;"><img src="https://img.shields.io/badge/🧠_Learning-00FFA3?style=flat-square&labelColor=0d1117" alt="Learning"/></td>
+                <td align="center" style="width: 16%;"><img src="https://img.shields.io/badge/Medium-FFD93D?style=flat-square&labelColor=0d1117" alt="Medium"/></td>
+                <td align="center" style="width: 18%;"><img src="https://img.shields.io/badge/2026-6C63FF?style=flat-square&labelColor=0d1117" alt="2026"/></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+  
+  <!-- Card Footer -->
+  <tr>
+    <td style="background: linear-gradient(135deg, #0d1117, #161b22); padding: 10px 20px; border-top: 1px solid #1e2a3a;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="center">
+            <span style="color: #8b949e; font-size: 11px;">🚧 &nbsp;Consistency over intensity — small steps lead to big results</span>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
 <br/>

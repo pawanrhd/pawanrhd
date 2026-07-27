@@ -305,48 +305,171 @@
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════╗
-║          ✨ PAWAN'S DEV SPIRIT ✨         ║
-╠══════════════════════════════════════════╣
-║  💻 Code. ☕ Coffee. 🔁 Repeat.          ║
-║  🚀 Dream Big. 📚 Learn Daily.          ║
-║  🌟 Build Cool Stuff. 🤝 Share.         ║
-║  ❌ Fail. 📈 Rise. 🏆 Succeed.          ║
-╚══════════════════════════════════════════╝
-```
+<!-- Dev Spirit Card -->
+<table width="90%" cellpadding="0" cellspacing="0" style="border: 2px solid #1e2a3a; border-radius: 16px; background: #0d1117; box-shadow: 0 0 40px rgba(56,247,210,0.08); margin-bottom: 24px;">
+  <tr>
+    <td style="background: linear-gradient(135deg, #161b22, #0d1117); padding: 18px 24px; border-bottom: 1px solid #1e2a3a; border-radius: 14px 14px 0 0; text-align: center;">
+      <span style="color: #38F7D2; font-size: 15px; font-weight: 600;">✨ Dev Spirit</span>
+      <span style="color: #6C63FF; font-size: 12px; margin-left: 8px;">⚡ the code mantra</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 20px 24px;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="center" style="padding: 8px 0;">
+            <span style="color: #FF6B6B; font-size: 22px;">💻</span>
+            <span style="color: #8b949e; font-size: 14px; margin: 0 12px;">Code.</span>
+            <span style="color: #FFD93D; font-size: 22px;">☕</span>
+            <span style="color: #8b949e; font-size: 14px; margin: 0 12px;">Coffee.</span>
+            <span style="color: #00FFA3; font-size: 22px;">🔄</span>
+            <span style="color: #38F7D2; font-size: 14px; margin: 0 12px; font-weight: 600;">Repeat.</span>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="padding: 6px 0;">
+            <span style="color: #c9d1d9; font-size: 13px;">🚀 Dream Big &nbsp;·&nbsp; 📚 Learn Daily &nbsp;·&nbsp; 🌟 Build Cool Stuff</span>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="padding: 6px 0;">
+            <span style="color: #8b949e; font-size: 13px;">🤝 Share &nbsp;·&nbsp; ❌ Fail &nbsp;·&nbsp; 📈 Rise &nbsp;·&nbsp; 🏆</span>
+            <span style="color: #FFD93D; font-size: 13px; font-weight: 600;"> Succeed</span>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-### 🎵 Now Playing
+<!-- Music & Fun Facts Row -->
+<table width="90%" cellpadding="0" cellspacing="0" style="border-spacing: 0;">
+  <tr>
+    
+    <!-- Spotify Card -->
+    <td valign="top" style="width: 48%; padding-right: 2%;">
+      <table width="100%" cellpadding="0" cellspacing="0" style="border: 2px solid #1e2a3a; border-radius: 16px; background: #0d1117; box-shadow: 0 0 40px rgba(108,99,255,0.08);">
+        <tr>
+          <td style="background: linear-gradient(135deg, #161b22, #0d1117); padding: 14px 18px; border-bottom: 1px solid #1e2a3a; border-radius: 14px 14px 0 0; text-align: center;">
+            <span style="color: #6C63FF; font-size: 14px; font-weight: 600;">🎵 Now Playing</span>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 16px; text-align: center;">
+            <a href="https://spotify-github-profile.vercel.app/api/view?uid=yourid&redirect=true">
+              <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourid&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" width="260" style="border-radius: 10px;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=yourid&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourid&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" width="300"/>
-</a>
+    <!-- Fun Facts Card -->
+    <td valign="top" style="width: 48%; padding-left: 2%;">
+      <table width="100%" cellpadding="0" cellspacing="0" style="border: 2px solid #1e2a3a; border-radius: 16px; background: #0d1117; box-shadow: 0 0 40px rgba(255,107,107,0.08);">
+        <tr>
+          <td style="background: linear-gradient(135deg, #161b22, #0d1117); padding: 14px 18px; border-bottom: 1px solid #1e2a3a; border-radius: 14px 14px 0 0; text-align: center;">
+            <span style="color: #FF6B6B; font-size: 14px; font-weight: 600;">🕹️ Fun Facts</span>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 12px 16px;">
+            <table width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td style="padding: 8px 12px; border-bottom: 1px solid #1e2a3a;">
+                  <span style="font-size: 16px;">🎮</span>
+                  <span style="color: #8b949e; font-size: 12px; margin-left: 8px;">Gaming?</span>
+                  <span style="color: #c9d1d9; font-size: 13px; float: right;">Love strategy & puzzle games</span>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 8px 12px; border-bottom: 1px solid #1e2a3a;">
+                  <span style="font-size: 16px;">📚</span>
+                  <span style="color: #8b949e; font-size: 12px; margin-left: 8px;">Reading?</span>
+                  <span style="color: #c9d1d9; font-size: 13px; float: right;">Tech blogs & documentation 📖</span>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 8px 12px; border-bottom: 1px solid #1e2a3a;">
+                  <span style="font-size: 16px;">🎵</span>
+                  <span style="color: #8b949e; font-size: 12px; margin-left: 8px;">Music?</span>
+                  <span style="color: #c9d1d9; font-size: 13px; float: right;">Coding with lo-fi beats 🎧</span>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 8px 12px; border-bottom: 1px solid #1e2a3a;">
+                  <span style="font-size: 16px;">🌙</span>
+                  <span style="color: #8b949e; font-size: 12px; margin-left: 8px;">Prod?</span>
+                  <span style="color: #c9d1d9; font-size: 13px; float: right;">Night owl, midnight coder 🦉</span>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 8px 12px;">
+                  <span style="font-size: 16px;">☕</span>
+                  <span style="color: #8b949e; font-size: 12px; margin-left: 8px;">Fuel?</span>
+                  <span style="color: #c9d1d9; font-size: 13px; float: right;">Coffee & endless curiosity</span>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
 
-### 🕹️ Fun Facts
-
-| 🌟 Fact | 📝 Detail |
-|:---:|:---:|
-| 🎮 Gaming? | Love strategy & puzzle games |
-| 📚 Reading? | Tech blogs & documentation 📖 |
-| 🎵 Music? | Coding with lo-fi beats 🎧 |
-| 🌙 Productivity? | Night owl, midnight coder 🦉 |
-| ☕ Fuel? | Coffee & endless curiosity |
+  </tr>
+</table>
 
 <br/>
 
-<details>
-<summary><b>📜 Click to see my dev journey timeline 🕰️</b></summary>
-<br/>
-
-```
-2022 ───────────► 🎯 Started learning HTML, CSS & JavaScript
-2023 ───────────► 🚀 Built first React projects
-2024 ───────────► ⚡ Mastered Next.js & Full-Stack basics
-2025 ───────────► 🌱 Deep diving into Backend & DSA
-2026 ───────────► 🏆 CURRENT — Building, Learning, Growing!
-```
-
-</details>
+<!-- Dev Journey Timeline Card -->
+<table width="90%" cellpadding="0" cellspacing="0" style="border: 2px solid #1e2a3a; border-radius: 16px; background: #0d1117; box-shadow: 0 0 40px rgba(255,217,61,0.08);">
+  <tr>
+    <td style="background: linear-gradient(135deg, #161b22, #0d1117); padding: 14px 20px; border-bottom: 1px solid #1e2a3a; border-radius: 14px 14px 0 0; text-align: center;">
+      <span style="color: #FFD93D; font-size: 14px; font-weight: 600;">📜 Dev Journey Timeline 🕰️</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 16px 24px;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td style="padding: 6px 0;">
+            <span style="display: inline-block; width: 38px; background: #FF6B6B; color: #fff; font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 6px; text-align: center;">2022</span>
+            <span style="color: #8b949e; margin: 0 10px;">──────►</span>
+            <span style="color: #c9d1d9; font-size: 13px;">🎯 Started learning HTML, CSS & JavaScript</span>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 6px 0;">
+            <span style="display: inline-block; width: 38px; background: #FFD93D; color: #000; font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 6px; text-align: center;">2023</span>
+            <span style="color: #8b949e; margin: 0 10px;">──────►</span>
+            <span style="color: #c9d1d9; font-size: 13px;">🚀 Built first React projects</span>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 6px 0;">
+            <span style="display: inline-block; width: 38px; background: #38F7D2; color: #000; font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 6px; text-align: center;">2024</span>
+            <span style="color: #8b949e; margin: 0 10px;">──────►</span>
+            <span style="color: #c9d1d9; font-size: 13px;">⚡ Mastered Next.js & Full-Stack basics</span>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 6px 0;">
+            <span style="display: inline-block; width: 38px; background: #6C63FF; color: #fff; font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 6px; text-align: center;">2025</span>
+            <span style="color: #8b949e; margin: 0 10px;">──────►</span>
+            <span style="color: #c9d1d9; font-size: 13px;">🌱 Deep diving into Backend & DSA</span>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 6px 0;">
+            <span style="display: inline-block; width: 38px; background: #00FFA3; color: #000; font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 6px; text-align: center;">2026</span>
+            <span style="color: #8b949e; margin: 0 10px;">──────►</span>
+            <span style="color: #00FFA3; font-size: 13px; font-weight: 600;">🏆 CURRENT — Building, Learning, Growing!</span>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
 

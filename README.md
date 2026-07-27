@@ -20,7 +20,6 @@
 ## 👨🏻‍💻 **About Me**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="0" height="0"/>
   
   <!-- LIVE STATUS BADGES -->
   <img src="https://img.shields.io/badge/🔭%20Currently%20Working%20on-Frontend%20Projects-00FFA3?style=for-the-badge&labelColor=0d1117" />
@@ -31,88 +30,24 @@
 
 <br/>
 
-<!-- INTERACTIVE PROFILE CARD WITH LIVE STATS -->
+<!-- PROFILE INFO CARDS SIDE BY SIDE -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="55%" valign="top">
+  
+| | |
+|:---:|:---:|
+| <br/> **👤 Who Am I?** <br/><br/> 🔭 &nbsp;Working on **Frontend Projects** <br/> 🌱 &nbsp;Learning **Full Stack + DSA** <br/> 👯 &nbsp;Open to **Collaborate** <br/> 🤔 &nbsp;Exploring **System Design** <br/> 💬 &nbsp;Ask me about **Web Dev / UI/UX** <br/> 📫 &nbsp;**yupnothing@gmail.com** <br/> ⚡ &nbsp;*"I code a lot, learn a lot, <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and fail a lot 😄"* <br/><br/> | <br/> ![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif) <br/><br/> ![Dev GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) <br/><br/> |
 
-### ⚡ **Live Dev Terminal**
-
-```javascript
-┌─────────────────────────────────────────┐
-│  💻  pawan@dev:~$ whoami                │
-│  └─► Front-End Developer                │
-│                                         │
-│  📂  pawan@dev:~$ ls -la ./skills       │
-│  └─► React  Next.js  JS  TS  CSS 🎨    │
-│                                         │
-│  🔄  pawan@dev:~$ ./status.sh           │
-│  ┌──────────────────────────────────┐   │
-│  │ 🟢 STATUS:  Always Building     │   │
-│  │ 📚 LEARNING: Full Stack + DSA   │   │
-│  │ 🤝 OPEN TO:  Collaborate!       │   │
-│  │ ⚡ VIBE:     Code & Create      │   │
-│  └──────────────────────────────────┘   │
-│                                         │
-│  🎯  pawan@dev:~$ ./goals --list        │
-│  ├─► Master Full-Stack Development     │
-│  ├─► Crack DSA & System Design          │
-│  ├─► Contribute to Open Source          │
-│  └─► Build something awesome 🚀         │
-│                                         │
-│  ⚡  pawan@dev:~$ ./fun_fact            │
-│  └─► "I code a lot, learn a lot,        │
-│        and fail a lot 😄"               │
-└─────────────────────────────────────────┘
-```
-
-      </td>
-      <td width="45%" valign="top" align="center">
-
-### 🎬 **Live Coding Vibe**
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 16px; box-shadow: 0 0 20px rgba(0,255,163,0.3);" alt="Coding GIF"/>
-
-<br/><br/>
-
-<!-- ANIMATED CODING STATS -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 16px; box-shadow: 0 0 20px rgba(108,99,255,0.3);" alt="Developer GIF"/>
-
-<br/><br/>
-
-### 🔥 **Live Activity**
-      
-```text
-🎵 Now Playing:  Lo-fi Coding Beats
-⌨️  Current Task: Building something cool
-☕ Coffee Intake:  ∞ (infinite loop)
-🧠 Brain Usage:   100% Problem Solving
-```
-
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br/>
 
 <!-- QUICK STAT BADGES ROW -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00FFA3?style=flat-square&logo=codeigniter&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Projects-15%2B%20Shipped-6C63FF?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Languages-5%2B%20Proficient-FF6B6B?style=flat-square&logo=code&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Collaboration-Open%20to%20All-FFD93D?style=flat-square&logo=handshake&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Learning%20Mode-🚀%20Always%20ON-00D2FF?style=flat-square&logo=progress&logoColor=white&labelColor=0d1117" />
-</div>
-
-<br/>
-
-<!-- INTERACTIVE DOTS / BOUNCING BALLS -->
-<div align="center">
-  
-`🟢` `🟡` `🔵` `🟣` `🔴` `🟠` `🟢` `🟡` `🔵` `🟣` `🔴` `🟠`
-
+  <img src="https://img.shields.io/badge/⭐%20Focus-Frontend%20Development-00FFA3?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📚%20Learning-Full%20Stack%20%26%20DSA-FF6B6B?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💬%20Ask%20Me-About%20Web%20Dev-FFD93D?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📫%20Reach%20Me-yupnothing%40gmail.com-6C63FF?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🤝%20Status-Open%20to%20Collab-FF6B6B?style=flat-square&labelColor=0d1117" />
 </div>
 
 <!-- WAVE DIVIDER -->
@@ -159,29 +94,19 @@
 
 ### 🏆 **Trophy Cabinet**
 
-<img src="https://github-profile-trophy.vercel.app/?username=pawanrhd&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&column=8" width="100%" />
+[![Trophies](https://github-profile-trophy.vercel.app/?username=pawanrhd&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&column=8)](https://github.com/pawanrhd)
 
 <br/><br/>
 
-<!-- LANGUAGE + EXTRA STATS SIDE BY SIDE -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-
 ### 📊 **Language Breakdown**
-      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanrhd&layout=donut&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=10" width="95%" />
 
-    </td>
-    <td width="50%" align="center">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanrhd&layout=donut&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=10)](https://github.com/pawanrhd)
+
+<br/><br/>
 
 ### 📋 **Code Stats**
-      
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pawanrhd&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=6&layout=compact" width="95%" />
 
-    </td>
-  </tr>
-</table>
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pawanrhd&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=6&layout=compact)](https://github.com/pawanrhd)
 
 <br/>
 

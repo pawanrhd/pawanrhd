@@ -123,8 +123,6 @@
   <img src="https://img.shields.io/badge/📊_Status-Coding_Active-00FFA3?style=flat-square&labelColor=0d1117" alt="Status"/>
   &nbsp;
   <img src="https://img.shields.io/badge/🔄_Sync-Daily-38F7D2?style=flat-square&labelColor=0d1117" alt="Sync"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/📈_Tracker-WakaTime-6C63FF?style=flat-square&labelColor=0d1117" alt="Tracker"/>
 </div>
 
 <!-- WakaTime Stats (auto-updated by GitHub Action) -->

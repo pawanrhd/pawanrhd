@@ -20,30 +20,79 @@
 <tr>
 <td width="55%" valign="top">
 
-```yaml
-name: Pawan
-role: Front-End Developer
-based_in: India 🇮🇳
-currently_working_on: Frontend Projects
-currently_learning: Full Stack + DSA
-open_to_collaborate: true
-exploring: System Design
-ask_me_about: [Web Dev, UI/UX, React, Next.js]
-reach_me: yupnothing@gmail.com
-motto: "I code a lot, learn a lot, and fail a lot 😄"
-```
-
-<div align="left">
-  <img src="https://img.shields.io/badge/🔭%20Working%20On-Frontend%20Projects-38F7D2?style=for-the-badge&labelColor=0d1117" />
-  <br/>
-  <img src="https://img.shields.io/badge/🌱%20Learning-Full%20Stack%20%26%20DSA-FF6B6B?style=for-the-badge&labelColor=0d1117" />
-  <br/>
-  <img src="https://img.shields.io/badge/💬%20Ask%20Me-Web%20Dev%20%26%20UI%2FUX-FFD93D?style=for-the-badge&labelColor=0d1117" />
-  <br/>
-  <img src="https://img.shields.io/badge/📫%20Reach%20Me-yupnothing%40gmail.com-6C63FF?style=for-the-badge&labelColor=0d1117" />
-  <br/>
-  <img src="https://img.shields.io/badge/🤝%20Status-Open%20to%20Collab-00FFA3?style=for-the-badge&labelColor=0d1117" />
-</div>
+<!-- PROFILE CARD HTML -->
+<table width="100%" cellpadding="0" cellspacing="0" style="border: 2px solid #38F7D2; border-radius: 16px; background: #0d1117; font-family: Arial, sans-serif; box-shadow: 0 0 20px rgba(56,247,210,0.15);">
+  <tr>
+    <td style="background: linear-gradient(135deg, #38F7D222, #6C63FF22); padding: 14px 18px; border-bottom: 2px solid #38F7D2; border-radius: 14px 14px 0 0; text-align: center;">
+      <span style="font-size: 20px; font-weight: bold; color: #38F7D2;">👨🏻‍💻 &nbsp;PROFILE CARD</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 12px 18px;">
+      <table width="100%" cellpadding="6" cellspacing="0">
+        <tr><td style="font-size: 15px; color: #c9d1d9; border-bottom: 1px solid #1e2a3a;">
+          <span style="font-size: 20px;">🧑</span>&nbsp;&nbsp;<span style="color: #8b949e;">Name</span>
+          <span style="float: right; color: #38F7D2; font-weight: 600;">Pawan</span>
+        </td></tr>
+        <tr><td style="font-size: 15px; color: #c9d1d9; border-bottom: 1px solid #1e2a3a;">
+          <span style="font-size: 20px;">💼</span>&nbsp;&nbsp;<span style="color: #8b949e;">Role</span>
+          <span style="float: right; color: #38F7D2; font-weight: 600;">Front-End Developer</span>
+        </td></tr>
+        <tr><td style="font-size: 15px; color: #c9d1d9; border-bottom: 1px solid #1e2a3a;">
+          <span style="font-size: 20px;">📍</span>&nbsp;&nbsp;<span style="color: #8b949e;">Based In</span>
+          <span style="float: right; color: #38F7D2; font-weight: 600;">India 🇮🇳</span>
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 18px 8px;">
+      <div style="background: #161b22; border-radius: 10px; padding: 12px 14px; border: 1px solid #1e2a3a;">
+        <span style="color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">⚡ Current Status</span>
+        <table width="100%" cellpadding="5" cellspacing="0" style="margin-top: 6px;">
+          <tr><td style="font-size: 14px; color: #c9d1d9;"><span style="font-size: 16px;">🚀</span> Working</td><td style="text-align: right; color: #38F7D2; font-weight: 600;">Frontend Projects</td></tr>
+          <tr><td style="font-size: 14px; color: #c9d1d9;"><span style="font-size: 16px;">📚</span> Learning</td><td style="text-align: right; color: #FF6B6B; font-weight: 600;">Full Stack + DSA</td></tr>
+          <tr><td style="font-size: 14px; color: #c9d1d9;"><span style="font-size: 16px;">🔍</span> Exploring</td><td style="text-align: right; color: #FFD93D; font-weight: 600;">System Design</td></tr>
+          <tr><td style="font-size: 14px; color: #c9d1d9;"><span style="font-size: 16px;">🤝</span> Collab</td><td style="text-align: right; color: #00FFA3; font-weight: 600;">Open for all! 🎉</td></tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 18px 8px;">
+      <div style="background: #161b22; border-radius: 10px; padding: 12px 14px; border: 1px solid #1e2a3a;">
+        <span style="color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">💬 Connect</span>
+        <table width="100%" cellpadding="5" cellspacing="0" style="margin-top: 6px;">
+          <tr><td style="font-size: 14px; color: #c9d1d9;"><span style="font-size: 16px;">💬</span> Ask Me</td><td style="text-align: right; color: #FFD93D; font-weight: 600;">Web Dev / UI/UX</td></tr>
+          <tr><td style="font-size: 14px; color: #c9d1d9;"><span style="font-size: 16px;">📫</span> Reach Me</td><td style="text-align: right; color: #6C63FF; font-weight: 600;">yupnothing@gmail.com</td></tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 18px 14px;">
+      <div style="background: linear-gradient(135deg, #38F7D210, #6C63FF10); border-radius: 10px; padding: 12px 14px; border: 1px dashed #38F7D244;">
+        <span style="color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">⚡ Motto</span>
+        <div style="margin-top: 4px; font-size: 14px; color: #38F7D2; font-style: italic; text-align: center;">
+          "I code a lot, learn a lot,<br/>and fail a lot 😄"
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="background: linear-gradient(135deg, #38F7D222, #6C63FF22); padding: 12px 14px; border-top: 1px solid #38F7D244; border-radius: 0 0 14px 14px; text-align: center;">
+      <img src="https://img.shields.io/badge/🔭%20Working%20On-Frontend%20Projects-38F7D2?style=flat-square&labelColor=0d1117" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/🌱%20Learning-Full%20Stack%20%26%20DSA-FF6B6B?style=flat-square&labelColor=0d1117" />
+      <br/>
+      <img src="https://img.shields.io/badge/💬%20Ask%20Me-Web%20Dev%20%26%20UI%2FUX-FFD93D?style=flat-square&labelColor=0d1117" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/📫%20Reach%20Me-yupnothing%40gmail.com-6C63FF?style=flat-square&labelColor=0d1117" />
+      <br/>
+      <img src="https://img.shields.io/badge/🤝%20Status-Open%20to%20Collab-00FFA3?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
 
 </td>
 <td width="45%" valign="top" align="center">

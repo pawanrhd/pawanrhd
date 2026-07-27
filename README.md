@@ -34,33 +34,7 @@
 
 </div>
 
-### 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawanrhd/pawanrhd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawanrhd/pawanrhd/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pawanrhd/pawanrhd/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-> 💡 If the snake graphic above is blank, set up the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action on this repo — it regenerates automatically every day.
-
-</div>
-
-<details>
-<summary><b>🎨 Click for 3D Isometric Contribution View</b></summary>
-<br/>
-<div align="center">
-
-![3D Contribution Graph](https://github.com/pawanrhd/pawanrhd/blob/main/images/3d-contrib-graph.svg)
-
-*Generated using the `yoshi389111/github-profile-3d-contrib` GitHub Action.*
-
-</div>
-</details>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 ## 🛠️ Tech Stack & Tools
 

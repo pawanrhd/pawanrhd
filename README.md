@@ -319,6 +319,7 @@
 ### 🕹️ Fun Facts
 
 | <!-- --> | <!-- --> | <!-- --> |
+|:---:|:---:|:---:|
 | 🎮 | **Gaming** | Love strategy & puzzle games |
 | 📚 | **Reading** | Tech blogs & documentation 📖 |
 | 🎵 | **Music** | Coding with lo-fi beats 🎧 |

@@ -19,32 +19,101 @@
 
 ## 👨🏻‍💻 **About Me**
 
-<table align="center">
-  <tr>
-    <td width="60%" valign="top">
-      
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="0" height="0"/>
+  
+  <!-- LIVE STATUS BADGES -->
+  <img src="https://img.shields.io/badge/🔭%20Currently%20Working%20on-Frontend%20Projects-00FFA3?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🌱%20Currently%20Learning-Full%20Stack%20%26%20DSA-FF6B6B?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💬%20Ask%20Me%20About-Web%20Dev%20%26%20UI%2FUX-FFD93D?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📫%20Reach%20Me-yupnothing%40gmail.com-6C63FF?style=for-the-badge&labelColor=0d1117" />
+</div>
+
+<br/>
+
+<!-- INTERACTIVE PROFILE CARD WITH LIVE STATS -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="55%" valign="top">
+
+### ⚡ **Live Dev Terminal**
+
 ```javascript
-const pawan = {
-  title: "Front-End Developer",
-  location: "India 🇮🇳",
-  currentlyWorking: "Frontend Projects",
-  currentlyLearning: ["Full Stack Technologies", "DSA", "System Design"],
-  lookingToCollaborate: "Full Stack Technologies",
-  lookingForHelp: "DSA / System Design",
-  askMeAbout: ["Web Dev", "UI/UX", "JavaScript"],
-  funFact: "I like to code a lot and learn a lot even though I fail a lot 😄",
-  reachMe: "yupnothing@gmail.com"
-};
+┌─────────────────────────────────────────┐
+│  💻  pawan@dev:~$ whoami                │
+│  └─► Front-End Developer                │
+│                                         │
+│  📂  pawan@dev:~$ ls -la ./skills       │
+│  └─► React  Next.js  JS  TS  CSS 🎨    │
+│                                         │
+│  🔄  pawan@dev:~$ ./status.sh           │
+│  ┌──────────────────────────────────┐   │
+│  │ 🟢 STATUS:  Always Building     │   │
+│  │ 📚 LEARNING: Full Stack + DSA   │   │
+│  │ 🤝 OPEN TO:  Collaborate!       │   │
+│  │ ⚡ VIBE:     Code & Create      │   │
+│  └──────────────────────────────────┘   │
+│                                         │
+│  🎯  pawan@dev:~$ ./goals --list        │
+│  ├─► Master Full-Stack Development     │
+│  ├─► Crack DSA & System Design          │
+│  ├─► Contribute to Open Source          │
+│  └─► Build something awesome 🚀         │
+│                                         │
+│  ⚡  pawan@dev:~$ ./fun_fact            │
+│  └─► "I code a lot, learn a lot,        │
+│        and fail a lot 😄"               │
+└─────────────────────────────────────────┘
 ```
+
+      </td>
+      <td width="45%" valign="top" align="center">
+
+### 🎬 **Live Coding Vibe**
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 16px; box-shadow: 0 0 20px rgba(0,255,163,0.3);" alt="Coding GIF"/>
+
+<br/><br/>
+
+<!-- ANIMATED CODING STATS -->
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 16px; box-shadow: 0 0 20px rgba(108,99,255,0.3);" alt="Developer GIF"/>
+
+<br/><br/>
+
+### 🔥 **Live Activity**
       
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" height="200" style="border-radius: 12px;" alt="Coding GIF"/>
-      <br/><br/>
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" height="160" style="border-radius: 12px;" alt="Developer GIF"/>
-    </td>
-  </tr>
-</table>
+```text
+🎵 Now Playing:  Lo-fi Coding Beats
+⌨️  Current Task: Building something cool
+☕ Coffee Intake:  ∞ (infinite loop)
+🧠 Brain Usage:   100% Problem Solving
+```
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- QUICK STAT BADGES ROW -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00FFA3?style=flat-square&logo=codeigniter&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Projects-15%2B%20Shipped-6C63FF?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Languages-5%2B%20Proficient-FF6B6B?style=flat-square&logo=code&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Collaboration-Open%20to%20All-FFD93D?style=flat-square&logo=handshake&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Learning%20Mode-🚀%20Always%20ON-00D2FF?style=flat-square&logo=progress&logoColor=white&labelColor=0d1117" />
+</div>
+
+<br/>
+
+<!-- INTERACTIVE DOTS / BOUNCING BALLS -->
+<div align="center">
+  
+`🟢` `🟡` `🔵` `🟣` `🔴` `🟠` `🟢` `🟡` `🔵` `🟣` `🔴` `🟠`
+
+</div>
 
 <!-- WAVE DIVIDER -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">

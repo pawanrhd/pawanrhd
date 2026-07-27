@@ -114,27 +114,6 @@
 <!-- Terminal-style Stats Card -->
 <table width="90%" cellpadding="0" cellspacing="0" style="border: 2px solid #1e2a3a; border-radius: 16px; background: #0d1117; box-shadow: 0 0 40px rgba(56,247,210,0.1);">
   
-  <!-- macOS-style Title Bar -->
-  <tr>
-    <td style="background: linear-gradient(90deg, #161b22, #0d1117); padding: 14px 20px; border-bottom: 1px solid #1e2a3a; border-radius: 14px 14px 0 0;">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td width="80">
-            <span style="display: inline-block; width: 14px; height: 14px; border-radius: 50%; background: #FF6B6B; margin-right: 8px;"></span>
-            <span style="display: inline-block; width: 14px; height: 14px; border-radius: 50%; background: #FFD93D; margin-right: 8px;"></span>
-            <span style="display: inline-block; width: 14px; height: 14px; border-radius: 50%; background: #00FFA3;"></span>
-          </td>
-          <td align="center">
-            <span style="color: #8b949e; font-size: 13px; font-family: monospace;">⚡ wakatime — coding-stats</span>
-          </td>
-          <td width="80" align="right">
-            <span style="color: #00FFA3; font-size: 11px;">● connected</span>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  
   <!-- Stats Content -->
   <tr>
     <td style="padding: 24px 28px 18px;">
@@ -162,22 +141,6 @@
 <!--END_SECTION:waka-->
 
   </td>
-  </tr>
-  
-  <!-- Status Row -->
-  <tr>
-    <td style="padding: 0 28px 16px;">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td align="center" style="background: #161b22; border-radius: 8px; padding: 10px 16px; border: 1px solid #1e2a3a;">
-            <span style="color: #8b949e; font-size: 12px;">
-              ⏱️ <span style="color: #38F7D2;">WakaTime</span> tracking active — stats auto-refresh daily via 
-              <a href="https://github.com/athul/waka-readme" style="color: #6C63FF; text-decoration: none;">athul/waka-readme</a>
-            </span>
-          </td>
-        </tr>
-      </table>
-    </td>
   </tr>
 
   <!-- Footer -->

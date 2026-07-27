@@ -318,7 +318,7 @@
 
 ### 🕹️ Fun Facts
 
-| <!-- --> | <!-- --> | <!-- --> |
+| | Interest | Vibe |
 |:---:|:---:|:---:|
 | 🎮 | **Gaming** | Love strategy & puzzle games |
 | 📚 | **Reading** | Tech blogs & documentation 📖 |

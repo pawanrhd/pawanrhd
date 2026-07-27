@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38F7D2&center=true&vCenter=true&width=600&lines=Building+Beautiful+Web+Experiences;Full-Stack+Technologies+Learner;Open+Source+Contributor;Problem+Solver+%26+Code+Lover;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
-[![](https://visitcount.itsvg.in/api?id=pawanrhd&icon=6&color=6)](https://visitcount.itsvg.in)
-[![GitHub followers](https://img.shields.io/github/followers/pawanrhd?style=social&label=Follow&maxAge=2592000)](https://github.com/pawanrhd?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=pawanrhd&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/pawanrhd)
+<img src="https://visitcount.itsvg.in/api?id=pawanrhd&icon=6&color=6" alt="Visit Count" />
+<img src="https://img.shields.io/github/followers/pawanrhd?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers" />
+<img src="https://komarev.com/ghpvc/?username=pawanrhd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ---
 
@@ -94,19 +94,19 @@
 
 ### 🏆 **Trophy Cabinet**
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=pawanrhd&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&column=8)](https://github.com/pawanrhd)
+<img src="https://github-profile-trophy.vercel.app/?username=pawanrhd&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&column=8" alt="Trophies" width="100%" />
 
 <br/><br/>
 
 ### 📊 **Language Breakdown**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanrhd&layout=donut&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=10)](https://github.com/pawanrhd)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanrhd&layout=donut&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=10" alt="Top Languages" />
 
 <br/><br/>
 
 ### 📋 **Code Stats**
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pawanrhd&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=6&layout=compact)](https://github.com/pawanrhd)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pawanrhd&hide_border=true&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=6&layout=compact" alt="WakaTime Stats" />
 
 <br/>
 

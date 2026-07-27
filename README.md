@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://visitcount.itsvg.in/api?id=pawanrhd&icon=6&color=6" alt="Visit Count" />
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=pawanrhd&repo=github&countColor=%2338F7D2&labelColor=%230d1117" alt="Visitor Count" />
 <img src="https://img.shields.io/github/followers/pawanrhd?style=for-the-badge&logo=github&label=Followers&color=38F7D2&labelColor=0d1117" alt="GitHub Followers" />
 <img src="https://komarev.com/ghpvc/?username=pawanrhd&label=Profile+Views&color=6C63FF&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 

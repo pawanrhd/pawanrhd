@@ -184,28 +184,56 @@
   <tbody>
     <tr>
       <td>💻&nbsp;<b>Full-Stack Mastery</b></td>
-      <td><img src="https://progress-bar.dev/55/?width=110&color=38F7D2" alt="55%"/></td>
+      <td align="center">
+        <div style="display: inline-flex; align-items: center; gap: 8px;">
+          <div style="width: 100px; height: 18px; background: #1e2a3a; border-radius: 10px; overflow: hidden; border: 1px solid #2a3a4a;">
+            <div style="width: 55%; height: 100%; background: linear-gradient(90deg, #38F7D2, #2dbaa0); border-radius: 10px;"></div>
+          </div>
+          <span style="color: #c9d1d9; font-size: 13px; font-weight: 700; font-family: monospace;">55%</span>
+        </div>
+      </td>
       <td><img src="https://img.shields.io/badge/🌱_Learning-38F7D2?style=flat-square&labelColor=0d1117" alt="Learning"/></td>
       <td><img src="https://img.shields.io/badge/High-FF6B6B?style=flat-square&labelColor=0d1117" alt="High"/></td>
       <td><img src="https://img.shields.io/badge/2026-6C63FF?style=flat-square&labelColor=0d1117" alt="2026"/></td>
     </tr>
     <tr>
       <td>🧮&nbsp;<b>DSA Proficiency</b></td>
-      <td><img src="https://progress-bar.dev/40/?width=110&color=FFD93D" alt="40%"/></td>
+      <td align="center">
+        <div style="display: inline-flex; align-items: center; gap: 8px;">
+          <div style="width: 100px; height: 18px; background: #1e2a3a; border-radius: 10px; overflow: hidden; border: 1px solid #2a3a4a;">
+            <div style="width: 40%; height: 100%; background: linear-gradient(90deg, #FFD93D, #e6b800); border-radius: 10px;"></div>
+          </div>
+          <span style="color: #c9d1d9; font-size: 13px; font-weight: 700; font-family: monospace;">40%</span>
+        </div>
+      </td>
       <td><img src="https://img.shields.io/badge/📖_In_Progress-FFD93D?style=flat-square&labelColor=0d1117" alt="In Progress"/></td>
       <td><img src="https://img.shields.io/badge/High-FF6B6B?style=flat-square&labelColor=0d1117" alt="High"/></td>
       <td><img src="https://img.shields.io/badge/2026-6C63FF?style=flat-square&labelColor=0d1117" alt="2026"/></td>
     </tr>
     <tr>
       <td>🌍&nbsp;<b>Open Source Contributions</b></td>
-      <td><img src="https://progress-bar.dev/30/?width=110&color=FF6B6B" alt="30%"/></td>
+      <td align="center">
+        <div style="display: inline-flex; align-items: center; gap: 8px;">
+          <div style="width: 100px; height: 18px; background: #1e2a3a; border-radius: 10px; overflow: hidden; border: 1px solid #2a3a4a;">
+            <div style="width: 30%; height: 100%; background: linear-gradient(90deg, #FF6B6B, #e04040); border-radius: 10px;"></div>
+          </div>
+          <span style="color: #c9d1d9; font-size: 13px; font-weight: 700; font-family: monospace;">30%</span>
+        </div>
+      </td>
       <td><img src="https://img.shields.io/badge/🤝_Open_to_Collab-FF6B6B?style=flat-square&labelColor=0d1117" alt="Open to Collaborate"/></td>
       <td><img src="https://img.shields.io/badge/Medium-FFD93D?style=flat-square&labelColor=0d1117" alt="Medium"/></td>
       <td><img src="https://img.shields.io/badge/Ongoing-00FFA3?style=flat-square&labelColor=0d1117" alt="Ongoing"/></td>
     </tr>
     <tr>
       <td>🏗️&nbsp;<b>System Design</b></td>
-      <td><img src="https://progress-bar.dev/25/?width=110&color=00FFA3" alt="25%"/></td>
+      <td align="center">
+        <div style="display: inline-flex; align-items: center; gap: 8px;">
+          <div style="width: 100px; height: 18px; background: #1e2a3a; border-radius: 10px; overflow: hidden; border: 1px solid #2a3a4a;">
+            <div style="width: 25%; height: 100%; background: linear-gradient(90deg, #00FFA3, #00cc82); border-radius: 10px;"></div>
+          </div>
+          <span style="color: #c9d1d9; font-size: 13px; font-weight: 700; font-family: monospace;">25%</span>
+        </div>
+      </td>
       <td><img src="https://img.shields.io/badge/🧠_Learning-00FFA3?style=flat-square&labelColor=0d1117" alt="Learning"/></td>
       <td><img src="https://img.shields.io/badge/Medium-FFD93D?style=flat-square&labelColor=0d1117" alt="Medium"/></td>
       <td><img src="https://img.shields.io/badge/2026-6C63FF?style=flat-square&labelColor=0d1117" alt="2026"/></td>

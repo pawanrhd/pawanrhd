@@ -197,12 +197,47 @@ motto: "I code a lot, learn a lot, and fail a lot 😄"
 
 <div align="center">
 
-| 🎯 Goal | 📌 Status | 🚀 Target |
-|:---|:---:|:---:|
-| Full-Stack Mastery | 🌱 Learning | 2026 |
-| DSA Proficiency | 📖 In Progress | 2026 |
-| Open Source Contributions | 🤝 Looking to Collaborate | Ongoing |
-| System Design | 🧠 Learning | 2026 |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">🎯&nbsp;Goal</th>
+      <th align="center">📊&nbsp;Progress</th>
+      <th align="center">📌&nbsp;Status</th>
+      <th align="center">🔥&nbsp;Priority</th>
+      <th align="center">🚀&nbsp;Target</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>💻&nbsp;<b>Full-Stack Mastery</b></td>
+      <td><img src="https://progress-bar.dev/55/?title=&width=110&color=38F7D2&scale=100" alt="55%"/></td>
+      <td><img src="https://img.shields.io/badge/🌱_Learning-38F7D2?style=flat-square&labelColor=0d1117" alt="Learning"/></td>
+      <td><img src="https://img.shields.io/badge/High-FF6B6B?style=flat-square&labelColor=0d1117" alt="High"/></td>
+      <td><img src="https://img.shields.io/badge/2026-6C63FF?style=flat-square&labelColor=0d1117" alt="2026"/></td>
+    </tr>
+    <tr>
+      <td>🧮&nbsp;<b>DSA Proficiency</b></td>
+      <td><img src="https://progress-bar.dev/40/?title=&width=110&color=FFD93D&scale=100" alt="40%"/></td>
+      <td><img src="https://img.shields.io/badge/📖_In_Progress-FFD93D?style=flat-square&labelColor=0d1117" alt="In Progress"/></td>
+      <td><img src="https://img.shields.io/badge/High-FF6B6B?style=flat-square&labelColor=0d1117" alt="High"/></td>
+      <td><img src="https://img.shields.io/badge/2026-6C63FF?style=flat-square&labelColor=0d1117" alt="2026"/></td>
+    </tr>
+    <tr>
+      <td>🌍&nbsp;<b>Open Source Contributions</b></td>
+      <td><img src="https://progress-bar.dev/30/?title=&width=110&color=FF6B6B&scale=100" alt="30%"/></td>
+      <td><img src="https://img.shields.io/badge/🤝_Open_to_Collab-FF6B6B?style=flat-square&labelColor=0d1117" alt="Open to Collaborate"/></td>
+      <td><img src="https://img.shields.io/badge/Medium-FFD93D?style=flat-square&labelColor=0d1117" alt="Medium"/></td>
+      <td><img src="https://img.shields.io/badge/Ongoing-00FFA3?style=flat-square&labelColor=0d1117" alt="Ongoing"/></td>
+    </tr>
+    <tr>
+      <td>🏗️&nbsp;<b>System Design</b></td>
+      <td><img src="https://progress-bar.dev/25/?title=&width=110&color=00FFA3&scale=100" alt="25%"/></td>
+      <td><img src="https://img.shields.io/badge/🧠_Learning-00FFA3?style=flat-square&labelColor=0d1117" alt="Learning"/></td>
+      <td><img src="https://img.shields.io/badge/Medium-FFD93D?style=flat-square&labelColor=0d1117" alt="Medium"/></td>
+      <td><img src="https://img.shields.io/badge/2026-6C63FF?style=flat-square&labelColor=0d1117" alt="2026"/></td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 

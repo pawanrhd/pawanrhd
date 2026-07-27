@@ -316,20 +316,6 @@
 
 ---
 
-<br/>
-
-### 🎵 Now Playing
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=yourid&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourid&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" width="300" alt="Spotify Now Playing"/>
-</a>
-
-<br/><br/>
-
----
-
-<br/>
-
 ### 🕹️ Fun Facts
 
 | <!-- --> | <!-- --> | <!-- --> |

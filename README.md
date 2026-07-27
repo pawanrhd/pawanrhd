@@ -2,14 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38F7D2,100:6C63FF&height=220&section=header&text=Hey%20There!%20I'm%20Pawan%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20|%20Full-Stack%20Enthusiast%20|%20Code%20Artisan&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38F7D2&center=true&vCenter=true&width=700&lines=Building+Beautiful+Web+Experiences+%F0%9F%8E%A8;Full-Stack+Technologies+Learner+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%9A;Problem+Solver+%26+Code+Lover+%F0%9F%94%A5;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38F7D2&center=true&vCenter=true&width=700&lines=Building+Beautiful+Web+Experiences+%F0%9F%8E%A8;Full-Stack+Technologies+Learner+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%9A;Problem+Solver+%26+Code+Lover+%F0%9F%94%A5;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://visitcount.itsvg.in/api?id=pawanrhd&icon=6&color=6" alt="Visit Count" />
 <img src="https://img.shields.io/github/followers/pawanrhd?style=for-the-badge&logo=github&label=Followers&color=38F7D2&labelColor=0d1117" alt="GitHub Followers" />
 <img src="https://komarev.com/ghpvc/?username=pawanrhd&label=Profile+Views&color=6C63FF&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-<img src="https://img.shields.io/badge/dynamic/json?color=FFD93D&label=Repo%20Stars&style=for-the-badge&labelColor=0d1117&query=%24.length&url=https://api.github.com/search/repositories?q=user:pawanrhd" alt="Total Stars"/>
 
 </div>
 
@@ -61,10 +60,10 @@ motto: "I code a lot, learn a lot, and fail a lot 😄"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pawanrhd&show_icons=true&count_private=true&hide_border=true&title_color=38F7D2&icon_color=38F7D2&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_radius=12" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanrhd&hide_border=true&background=0d1117&stroke=38F7D2&ring=38F7D2&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38F7D2&sideLabels=FFFFFF&dates=8b949e&border_radius=12" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=pawanrhd&show_icons=true&count_private=true&hide_border=true&title_color=38F7D2&icon_color=38F7D2&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_radius=12" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=pawanrhd&hide_border=true&background=0d1117&stroke=38F7D2&ring=38F7D2&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38F7D2&sideLabels=FFFFFF&dates=8b949e&border_radius=12" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanrhd&layout=donut&hide_border=true&title_color=38F7D2&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=10" height="220"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pawanrhd&layout=donut&hide_border=true&title_color=38F7D2&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=10" height="220"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawanrhd&theme=react-dark&bg_color=0d1117&color=38F7D2&line=38F7D2&point=FFFFFF&area=true&hide_border=true&radius=12&custom_title=Contribution%20Activity" height="220"/>
 
 </div>

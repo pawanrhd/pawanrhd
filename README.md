@@ -111,15 +111,96 @@
 
 <div align="center">
 
+<!-- Terminal-style Stats Card -->
+<table width="90%" cellpadding="0" cellspacing="0" style="border: 2px solid #1e2a3a; border-radius: 16px; background: #0d1117; box-shadow: 0 0 40px rgba(56,247,210,0.1);">
+  
+  <!-- macOS-style Title Bar -->
+  <tr>
+    <td style="background: linear-gradient(90deg, #161b22, #0d1117); padding: 14px 20px; border-bottom: 1px solid #1e2a3a; border-radius: 14px 14px 0 0;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="80">
+            <span style="display: inline-block; width: 14px; height: 14px; border-radius: 50%; background: #FF6B6B; margin-right: 8px;"></span>
+            <span style="display: inline-block; width: 14px; height: 14px; border-radius: 50%; background: #FFD93D; margin-right: 8px;"></span>
+            <span style="display: inline-block; width: 14px; height: 14px; border-radius: 50%; background: #00FFA3;"></span>
+          </td>
+          <td align="center">
+            <span style="color: #8b949e; font-size: 13px; font-family: monospace;">⚡ wakatime — coding-stats</span>
+          </td>
+          <td width="80" align="right">
+            <span style="color: #00FFA3; font-size: 11px;">● connected</span>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  
+  <!-- Stats Content -->
+  <tr>
+    <td style="padding: 24px 28px 18px;">
+
+<!-- Badge row above stats -->
+<div align="center" style="margin-bottom: 18px;">
+  <img src="https://img.shields.io/badge/📊_Status-Coding_Active-00FFA3?style=flat-square&labelColor=0d1117" alt="Status"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔄_Sync-Daily-38F7D2?style=flat-square&labelColor=0d1117" alt="Sync"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📈_Tracker-WakaTime-6C63FF?style=flat-square&labelColor=0d1117" alt="Tracker"/>
+</div>
+
+<!-- WakaTime Stats (auto-updated by GitHub Action) -->
 <!--START_SECTION:waka-->
+<div style="background: #0d1117; border: 1px solid #1e2a3a; border-radius: 10px; padding: 16px 20px; font-family: monospace;">
+
 ```text
 💻 Total Time Coding:     Still counting...
 📅 Most Productive Day:   Every day is a learning day!
 🔥 Most Used Languages:   JavaScript, HTML, CSS, Python
 ```
+
+</div>
 <!--END_SECTION:waka-->
 
-> ⏱️ This section auto-updates via the [`athul/waka-readme`](https://github.com/athul/waka-readme) GitHub Action once connected to WakaTime.
+  </td>
+  </tr>
+  
+  <!-- Status Row -->
+  <tr>
+    <td style="padding: 0 28px 16px;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="center" style="background: #161b22; border-radius: 8px; padding: 10px 16px; border: 1px solid #1e2a3a;">
+            <span style="color: #8b949e; font-size: 12px;">
+              ⏱️ <span style="color: #38F7D2;">WakaTime</span> tracking active — stats auto-refresh daily via 
+              <a href="https://github.com/athul/waka-readme" style="color: #6C63FF; text-decoration: none;">athul/waka-readme</a>
+            </span>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- Footer -->
+  <tr>
+    <td style="background: linear-gradient(90deg, #0d1117, #161b22); padding: 12px 20px; border-top: 1px solid #1e2a3a; border-radius: 0 0 14px 14px; text-align: center;">
+      <span style="color: #8b949e; font-size: 11px;">
+        💡 Connect to <span style="color: #38F7D2;">WakaTime</span> to unlock live coding metrics &nbsp;|&nbsp; 
+        <span style="color: #6C63FF;">✨ Track everything you code</span>
+      </span>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Quick Stat Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/💻_Current_Focus-Frontend%20%26%20Full--Stack-38F7D2?style=for-the-badge&labelColor=0d1117" alt="Current Focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📅_Coding_Since-2020-6C63FF?style=for-the-badge&labelColor=0d1117" alt="Coding Since"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎯_Goal-10K%20Hours-FFD93D?style=for-the-badge&labelColor=0d1117" alt="Goal"/>
+</div>
 
 </div>
 
